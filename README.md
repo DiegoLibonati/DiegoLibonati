@@ -6,19 +6,19 @@
 </h3>
 
 <br/>
-<h2 align="center">
+<h2 align="left">
     Description=
 </h2>
 <img align="right" alt="Person coding gif" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/coding.gif" width="200" />
 
-- **My name is Libonati Diego**
+- **My name is Libonati Diego 🐥**
 - **I am from Argentina 🇦🇷**
-- **Dynamic 🧬**
-- **Reusable ♻️**
-- **Secure 🛡️**
-- **Load blazing fast 🚀**
-- **SEO Optimized 🔍**
-- **Crafted with pixel-perfect code ✨**
+- **I have 23 years old 💯**
+- **Learning for myself 😎**
+- **My name is Libonati Diego 🐥**
+- **I am from Argentina 🇦🇷**
+- **I have 23 years old 💯**
+- **Learning for myself 😎**
 <br/>
 
 <br/>
