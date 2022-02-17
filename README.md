@@ -37,7 +37,6 @@
 <br/>
 
 <p align="center">
- <a href="https://www.instagram.com/die_libonati/?hl=es-la"><img src="https://github.com/DiegoLibonati/DiegoLibonati/blob/main/template/ig2.png" width="30px" alt="instagram"></a> &nbsp; &nbsp;
-    
-     <a href="https://www.facebook.com/dielibonati/"><img src="https://github.com/DiegoLibonati/DiegoLibonati/blob/main/template/face.png" width="30px" alt="facebook"></a> &nbsp; &nbsp;
+ <a href="https://www.instagram.com/die_libonati/?hl=es-la"><img src="https://github.com/DiegoLibonati/DiegoLibonati/blob/main/template/ig2.png" width="30px" alt="instagram">
+ <a href="https://www.facebook.com/dielibonati/"><img src="https://github.com/DiegoLibonati/DiegoLibonati/blob/main/template/face.png" width="30px" alt="facebook">
 </p>
