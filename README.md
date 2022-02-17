@@ -9,7 +9,7 @@
 <h2 align="left">
     Description=
 </h2>
-<img align="right" alt="Person coding gif" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/coding.gif" width="200" />
+<img align="right" alt="cat coding" src="https://github.com/DiegoLibonati/DiegoLibonati/blob/main/template/cat.gif" width="200" />
 
 - **My name is Libonati Diego 🐥**
 - **I am from Argentina 🇦🇷**
