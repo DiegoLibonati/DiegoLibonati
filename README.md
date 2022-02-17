@@ -21,8 +21,8 @@
 <br/>
 
 <br/>
-<h2 align="center">
-  Here are some technologies I use at work:
+<h2 align="left">
+  Here are some technologies I use at work=
 </h2>
 <p align="center">
 <code><img height="70" src="https://github.com/DiegoLibonati/DiegoLibonati/blob/main/template/python.png"></code> &nbsp;&nbsp;
@@ -30,3 +30,12 @@
 </p>
 <br/>
 
+<br>
+<h2 align="left">
+  Contact=
+</h2>
+<br/>
+
+<p align="center">
+ <a href="https://www.instagram.com/die_libonati/?hl=es-la"><img src="https://github.com/DiegoLibonati/DiegoLibonati/blob/main/template/ig2.png" width="30px" alt="instagram"></a> &nbsp; &nbsp;
+</p>
