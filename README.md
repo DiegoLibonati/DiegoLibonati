@@ -15,10 +15,9 @@
 - **I am from Argentina 🇦🇷**
 - **I have 23 years old 💯**
 - **Learning for myself 😎**
-- **My name is Libonati Diego 🐥**
-- **I am from Argentina 🇦🇷**
-- **I have 23 years old 💯**
-- **Learning for myself 😎**
+- **Physical education in progress at UNLAM 👨‍🎓**
+- **My favorite sport is football ⚽**
+- **The name of my pet is Otto 🐈**
 <br/>
 
 <br/>
