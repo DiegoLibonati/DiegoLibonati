@@ -1,8 +1,8 @@
-> asdasd
+
 <h1 align="center"> Hey 👋🏽, I'm Libonati Diego </h1>
 
 <h3 align="center">
-    Autodidactic Kid at <a href="https://www.instagram.com/die_libonati/?hl=es-la">Argentina</a>.  
+    Autodidactic Kid in <a href="https://www.instagram.com/die_libonati/?hl=es-la">Argentina</a>.  
 </h3>
 
 
