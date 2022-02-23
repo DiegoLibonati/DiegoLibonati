@@ -26,7 +26,7 @@
 </h2>
 <p align="center">
 <code><img height="70" src="https://github.com/DiegoLibonati/DiegoLibonati/blob/main/template/python.png"></code> &nbsp;&nbsp;
-<code><img height="70" src="https://github.com/DiegoLibonati/DiegoLibonati/blob/main/template/kisspng-web-development-html-css3-canvas-element-web-desig-w3c-html5-logo-5ab0c8402a5109.6990536715215350401733.png"></code> &nbsp;&nbsp;
+<code><img height="70" src="https://github.com/DiegoLibonati/DiegoLibonati/blob/main/template/html5.png"></code> &nbsp;&nbsp;
 </p>
 <br/>
 
