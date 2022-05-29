@@ -34,6 +34,7 @@
 <code><img height="70" src="https://github.com/DiegoLibonati/DiegoLibonati/blob/main/template/html5.png"></code> &nbsp;&nbsp;
 <code><img height="75" src="https://github.com/DiegoLibonati/DiegoLibonati/blob/main/template/pngegg.png"></code> &nbsp;&nbsp;
 <code><img height="75" src="https://github.com/DiegoLibonati/DiegoLibonati/blob/main/template/js3.png"></code> &nbsp;&nbsp;
+<code><img height="75" src=" https://github.com/DiegoLibonati/DiegoLibonatiWeb/blob/main/templates/Bootstrap_logo.svg2.png"></code> &nbsp;&nbsp;
 </p>
 <br/>
 
