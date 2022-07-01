@@ -42,7 +42,7 @@
 </h2>
 <p align="center">
 <code><img height="75" src="https://github.com/DiegoLibonati/DiegoLibonati/blob/main/template/django3.png"></code> &nbsp;&nbsp;
-<code><img height="75" src="https://github.com/DiegoLibonati/DiegoLibonati/blob/main/template/react.png"></code> &nbsp;&nbsp;
+<code><img height="75" src="https://github.com/DiegoLibonati/DiegoLibonatiWeb/blob/main/templates/react.png"></code> &nbsp;&nbsp;
 <code><img height="75" src="https://github.com/DiegoLibonati/DiegoLibonati/blob/main/template/mongodb.png"></code> &nbsp;&nbsp;
 <code><img height="75" src="https://github.com/DiegoLibonati/DiegoLibonati/blob/main/template/mysql.png"></code> &nbsp;&nbsp;
 </p>
