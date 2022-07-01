@@ -20,7 +20,6 @@
 - **I am from Argentina 🇦🇷**
 - **I have 23 years old 💯**
 - **Learning for myself 😎**
-- **Physical education in progress at UNLAM 👨‍🎓**
 - **My favorite sport is football ⚽**
 - **The name of my pet is Otto 🐈**
 <br/>
@@ -43,6 +42,9 @@
 </h2>
 <p align="center">
 <code><img height="75" src="https://github.com/DiegoLibonati/DiegoLibonati/blob/main/template/django3.png"></code> &nbsp;&nbsp;
+<code><img height="75" src="https://github.com/DiegoLibonati/DiegoLibonati/blob/main/template/react.png"></code> &nbsp;&nbsp;
+<code><img height="75" src="https://github.com/DiegoLibonati/DiegoLibonati/blob/main/template/mongodb.png"></code> &nbsp;&nbsp;
+<code><img height="75" src="https://github.com/DiegoLibonati/DiegoLibonati/blob/main/template/mysql.png"></code> &nbsp;&nbsp;
 </p>
 
 <br>
