@@ -9,6 +9,8 @@
     Web Developer
 </h3>
 
+<img align="center" src="https://raw.githubusercontent.com/DiegoLibonati/DiegoLibonati/main/templates/DiegoLibonati.png" alt="Diego Libonati"/>
+
 <p align="center">
 
 <a href="https://www.instagram.com/die_libonati/?hl=es-la" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Diego Libonati"/></a>
