@@ -10,8 +10,6 @@
 ## My portfolio:
 <h1>https://diegolibonati.github.io/DiegoLibonatiWeb/</h1>
 
-<br>
-
 ## About me: 
 <img align="right" alt="cat coding" src="https://github.com/DiegoLibonati/DiegoLibonati/blob/main/template/cat.gif" width="200" />
 
