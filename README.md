@@ -7,13 +7,12 @@
 
 <br/>
 
-# MY PERSONAL WEB || PORTFOLIO=
+## My portfolio:
 <h1>https://diegolibonati.github.io/DiegoLibonatiWeb/</h1>
 
 <br>
-<h2 align="left">
-    Description=
-</h2>
+
+## About me: 
 <img align="right" alt="cat coding" src="https://github.com/DiegoLibonati/DiegoLibonati/blob/main/template/cat.gif" width="200" />
 
 - **My name is Libonati Diego 🐥**
@@ -25,9 +24,9 @@
 <br/>
 
 <br/>
-<h2 align="left">
-  Knowledges=
-</h2>
+
+## Knowledges:
+
 <p align="center">
 <code><img height="75" src="https://raw.githubusercontent.com/DiegoLibonati/DiegoLibonatiWeb/master/src/assets/Index/css.png"></code> &nbsp;&nbsp;
 <code><img height="75" src="https://raw.githubusercontent.com/DiegoLibonati/DiegoLibonatiWeb/master/src/assets/Index/bootstrap.png"></code> &nbsp;&nbsp;
