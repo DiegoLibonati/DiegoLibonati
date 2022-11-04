@@ -1,14 +1,26 @@
 
 <h1 align="center"> Hey 👋🏽, I'm Libonati Diego </h1>
 
-<h3 align="center">
+<h2 align="center">
     Autodidactic Kid in <a href="https://www.instagram.com/die_libonati/?hl=es-la">Argentina</a>.  
+</h2>
+
+<h3 align="center">
+    Web Developer
 </h3>
+
+<p align="center">
+
+<a href="https://www.instagram.com/die_libonati/?hl=es-la" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Diego Libonati"/></a>
+
+<a href="diego.libonati1998@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Diego Libonati"/></a>
+
+</p>
 
 <br/>
 
 ## My portfolio:
-<h1>https://diegolibonati.github.io/DiegoLibonatiWeb/</h1>
+https://diegolibonati.github.io/DiegoLibonatiWeb/
 
 ## About me: 
 <img align="right" alt="cat coding" src="https://github.com/DiegoLibonati/DiegoLibonati/blob/main/template/cat.gif" width="200" />
@@ -48,16 +60,3 @@
 </p>
 <br/>
 
-
-<br>
-<h2 align="left">
-  Contact=
-</h2>
-<br/>
-
-<p align="center">
- <a href="https://www.instagram.com/die_libonati/?hl=es-la"><img src="https://github.com/DiegoLibonati/DiegoLibonati/blob/main/template/ig2.png" width="30px" alt="instagram"></a> &nbsp; &nbsp;
- <a href="https://www.facebook.com/dielibonati/"><img src="https://github.com/DiegoLibonati/DiegoLibonati/blob/main/template/face.png" width="30px" alt="facebook"></a> &nbsp; &nbsp;
- <a href="mailto:diego.libonati1998@gmail.com"><img src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/gmail.svg" width="30px" alt="mail"></a> &nbsp; &nbsp;
- <a href="https://github.com/DiegoLibonati"><img src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/github.svg" width="30px" alt="github"></a> &nbsp; &nbsp;
-</p>
