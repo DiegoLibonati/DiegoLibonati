@@ -38,25 +38,16 @@ https://diegolibonati.github.io/DiegoLibonatiWeb/
 ## Knowledges:
 
 <p align="center">
-<code><img height="75" src="https://raw.githubusercontent.com/DiegoLibonati/DiegoLibonatiWeb/master/src/assets/Index/css.png"></code> &nbsp;&nbsp;
-<code><img height="75" src="https://raw.githubusercontent.com/DiegoLibonati/DiegoLibonatiWeb/master/src/assets/Index/bootstrap.png"></code> &nbsp;&nbsp;
-<code><img height="75" src="https://raw.githubusercontent.com/DiegoLibonati/DiegoLibonatiWeb/master/src/assets/Index/django.png"></code> &nbsp;&nbsp;
-<code><img height="75" src="https://raw.githubusercontent.com/DiegoLibonati/DiegoLibonatiWeb/master/src/assets/Index/flask.png"></code> &nbsp;&nbsp;
-<code><img height="75" src="https://raw.githubusercontent.com/DiegoLibonati/DiegoLibonatiWeb/master/src/assets/Index/html.png"></code> &nbsp;&nbsp;
-<code><img height="75" src="https://raw.githubusercontent.com/DiegoLibonati/DiegoLibonatiWeb/master/src/assets/Index/javascript.png"></code> &nbsp;&nbsp;
-<code><img height="75" src="https://raw.githubusercontent.com/DiegoLibonati/DiegoLibonatiWeb/master/src/assets/Index/jest.png"></code> &nbsp;&nbsp;
-<code><img height="75" src="https://raw.githubusercontent.com/DiegoLibonati/DiegoLibonatiWeb/master/src/assets/Index/jinja.png"></code> &nbsp;&nbsp;
-<code><img height="75" src="https://raw.githubusercontent.com/DiegoLibonati/DiegoLibonatiWeb/master/src/assets/Index/mongodb.png"></code> &nbsp;&nbsp;
-<code><img height="75" src="https://raw.githubusercontent.com/DiegoLibonati/DiegoLibonatiWeb/master/src/assets/Index/mysql.png"></code> &nbsp;&nbsp;
-<code><img height="75" src="https://raw.githubusercontent.com/DiegoLibonati/DiegoLibonatiWeb/master/src/assets/Index/mysqlworkbench.png"></code> &nbsp;&nbsp;
-<code><img height="75" src="https://raw.githubusercontent.com/DiegoLibonati/DiegoLibonatiWeb/master/src/assets/Index/photoshopcs6.png"></code> &nbsp;&nbsp;
-<code><img height="75" src="https://raw.githubusercontent.com/DiegoLibonati/DiegoLibonatiWeb/master/src/assets/Index/phpmyadmin.png"></code> &nbsp;&nbsp;
-<code><img height="75" src="https://raw.githubusercontent.com/DiegoLibonati/DiegoLibonatiWeb/master/src/assets/Index/postman.png"></code> &nbsp;&nbsp;
-<code><img height="75" src="https://raw.githubusercontent.com/DiegoLibonati/DiegoLibonatiWeb/master/src/assets/Index/python.png"></code> &nbsp;&nbsp;
-<code><img height="75" src="https://raw.githubusercontent.com/DiegoLibonati/DiegoLibonatiWeb/master/src/assets/Index/react.png"></code> &nbsp;&nbsp;
-<code><img height="75" src="https://raw.githubusercontent.com/DiegoLibonati/DiegoLibonatiWeb/master/src/assets/Index/reactlibrary.png"></code> &nbsp;&nbsp;
-<code><img height="75" src="https://raw.githubusercontent.com/DiegoLibonati/DiegoLibonatiWeb/master/src/assets/Index/sql.png"></code> &nbsp;&nbsp;
-<code><img height="75" src="https://raw.githubusercontent.com/DiegoLibonati/DiegoLibonatiWeb/master/src/assets/Index/xampp.png"></code> &nbsp;&nbsp;
+<code><img height="75" src="https://raw.githubusercontent.com/DiegoLibonati/DiegoLibonati/main/templates/css.png"></code> &nbsp;&nbsp;
+<code><img height="75" src="https://raw.githubusercontent.com/DiegoLibonati/DiegoLibonati/main/templates/bootstrap.png"></code> &nbsp;&nbsp;
+<code><img height="75" src="https://raw.githubusercontent.com/DiegoLibonati/DiegoLibonati/main/templates/django.png"></code> &nbsp;&nbsp;
+<code><img height="75" src="https://raw.githubusercontent.com/DiegoLibonati/DiegoLibonati/main/templates/flask.png"></code> &nbsp;&nbsp;
+<code><img height="75" src="https://raw.githubusercontent.com/DiegoLibonati/DiegoLibonati/main/templates/html.png"></code> &nbsp;&nbsp;
+<code><img height="75" src="https://raw.githubusercontent.com/DiegoLibonati/DiegoLibonati/main/templates/javascript.png"></code> &nbsp;&nbsp;
+<code><img height="75" src="https://raw.githubusercontent.com/DiegoLibonati/DiegoLibonati/main/templates/mongodb.png"></code> &nbsp;&nbsp;
+<code><img height="75" src="https://raw.githubusercontent.com/DiegoLibonati/DiegoLibonati/main/templates/python.png"></code> &nbsp;&nbsp;
+<code><img height="75" src="https://raw.githubusercontent.com/DiegoLibonati/DiegoLibonati/main/templates/react.png"></code> &nbsp;&nbsp;
+<code><img height="75" src="https://raw.githubusercontent.com/DiegoLibonati/DiegoLibonati/main/templates/sql.png"></code> &nbsp;&nbsp;
 </p>
 <br/>
 
