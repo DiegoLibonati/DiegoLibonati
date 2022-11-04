@@ -1,13 +1,9 @@
 
 <h1 align="center"> Hey 👋🏽, I'm Libonati Diego </h1>
 
-<br/>
-
-<h2 align="center">
+<h3 align="center">
     Autodidactic Kid in <a href="https://www.instagram.com/die_libonati/?hl=es-la">Argentina</a>.  
-</h2>
-
-<br/>
+</h3>
 
 <h3 align="center">
     Web Developer
