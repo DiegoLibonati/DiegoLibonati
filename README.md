@@ -1,9 +1,13 @@
 
 <h1 align="center"> Hey 👋🏽, I'm Libonati Diego </h1>
 
+<br/>
+
 <h2 align="center">
     Autodidactic Kid in <a href="https://www.instagram.com/die_libonati/?hl=es-la">Argentina</a>.  
 </h2>
+
+<br/>
 
 <h3 align="center">
     Web Developer
@@ -22,6 +26,8 @@
 ## My portfolio:
 https://diegolibonati.github.io/DiegoLibonatiWeb/
 
+<br/>
+
 ## About me: 
 <img align="right" alt="cat coding" src="https://github.com/DiegoLibonati/DiegoLibonati/blob/main/template/cat.gif" width="200" />
 
@@ -31,8 +37,6 @@ https://diegolibonati.github.io/DiegoLibonatiWeb/
 - **Learning for myself 😎**
 - **My favorite sport is football ⚽**
 - **The name of my pet is Otto 🐈**
-<br/>
-
 <br/>
 
 ## Knowledges:
@@ -49,5 +53,5 @@ https://diegolibonati.github.io/DiegoLibonatiWeb/
 <code><img height="75" src="https://raw.githubusercontent.com/DiegoLibonati/DiegoLibonati/main/templates/react.png"></code> &nbsp;&nbsp;
 <code><img height="75" src="https://raw.githubusercontent.com/DiegoLibonati/DiegoLibonati/main/templates/sql.png"></code> &nbsp;&nbsp;
 </p>
-<br/>
 
+<br/>
