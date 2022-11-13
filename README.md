@@ -42,7 +42,6 @@ https://diegolibonati.github.io/DiegoLibonatiWeb/
 <p align="center">
 <code><img height="75" src="https://raw.githubusercontent.com/DiegoLibonati/DiegoLibonati/main/templates/css.png"></code> &nbsp;&nbsp;
 <code><img height="75" src="https://raw.githubusercontent.com/DiegoLibonati/DiegoLibonati/main/templates/bootstrap.png"></code> &nbsp;&nbsp;
-<code><img height="75" src="https://raw.githubusercontent.com/DiegoLibonati/DiegoLibonati/main/templates/django.png"></code> &nbsp;&nbsp;
 <code><img height="75" src="https://raw.githubusercontent.com/DiegoLibonati/DiegoLibonati/main/templates/flask.png"></code> &nbsp;&nbsp;
 <code><img height="75" src="https://raw.githubusercontent.com/DiegoLibonati/DiegoLibonati/main/templates/html.png"></code> &nbsp;&nbsp;
 <code><img height="75" src="https://raw.githubusercontent.com/DiegoLibonati/DiegoLibonati/main/templates/javascript.png"></code> &nbsp;&nbsp;
