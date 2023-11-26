@@ -9,7 +9,7 @@
     Web Developer
 </h3>
 
-<img align="center" src="https://raw.githubusercontent.com/DiegoLibonati/DiegoLibonati/main/templates/DiegoLibonati.png" alt="Diego Libonati"/>
+<img align="center" src="https://raw.githubusercontent.com/DiegoLibonati/media/main/WhatsApp%20Image%202023-09-06%20at%208.18.32%20PM.jpeg" alt="Diego Libonati"/>
 
 <p align="center">
 
@@ -22,7 +22,7 @@
 <br/>
 
 ## My portfolio:
-https://diegolibonati.github.io/DiegoLibonatiWeb/
+https://diegolibonati.com.ar
 
 <br/>
 
@@ -31,24 +31,8 @@ https://diegolibonati.github.io/DiegoLibonatiWeb/
 
 - **My name is Libonati Diego 🐥**
 - **I am from Argentina 🇦🇷**
-- **I have 24 years old 💯**
+- **I have 25 years old 💯**
 - **Learning for myself 😎**
 - **My favorite sport is football ⚽**
 - **The name of my pet is Otto 🐈**
-<br/>
-
-## Knowledges:
-
-<p align="center">
-<code><img height="75" src="https://raw.githubusercontent.com/DiegoLibonati/DiegoLibonati/main/templates/css.png"></code> &nbsp;&nbsp;
-<code><img height="75" src="https://raw.githubusercontent.com/DiegoLibonati/DiegoLibonati/main/templates/bootstrap.png"></code> &nbsp;&nbsp;
-<code><img height="75" src="https://raw.githubusercontent.com/DiegoLibonati/DiegoLibonati/main/templates/flask.png"></code> &nbsp;&nbsp;
-<code><img height="75" src="https://raw.githubusercontent.com/DiegoLibonati/DiegoLibonati/main/templates/html.png"></code> &nbsp;&nbsp;
-<code><img height="75" src="https://raw.githubusercontent.com/DiegoLibonati/DiegoLibonati/main/templates/javascript.png"></code> &nbsp;&nbsp;
-<code><img height="75" src="https://raw.githubusercontent.com/DiegoLibonati/DiegoLibonati/main/templates/mongodb.png"></code> &nbsp;&nbsp;
-<code><img height="75" src="https://raw.githubusercontent.com/DiegoLibonati/DiegoLibonati/main/templates/python.png"></code> &nbsp;&nbsp;
-<code><img height="75" src="https://raw.githubusercontent.com/DiegoLibonati/DiegoLibonati/main/templates/react.png"></code> &nbsp;&nbsp;
-<code><img height="75" src="https://raw.githubusercontent.com/DiegoLibonati/DiegoLibonati/main/templates/sql.png"></code> &nbsp;&nbsp;
-</p>
-
 <br/>
