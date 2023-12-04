@@ -9,7 +9,7 @@
     Web Developer
 </h3>
 
-<img align="center" src="https://raw.githubusercontent.com/DiegoLibonati/media/main/WhatsApp%20Image%202023-09-06%20at%208.18.32%20PM.jpeg" alt="Diego Libonati"/>
+<img align="center" src="https://diegolibonati.com.ar/images/diegolibonatiglasses.webp" alt="Diego Libonati"/>
 
 <p align="center">
 
