@@ -9,7 +9,7 @@
     Web Developer
 </h3>
 
-<img align="center" src="https://diegolibonati.com.ar/images/diegolibonatiglasses.webp" alt="Diego Libonati"/>
+<img align="center" width="100%" src="https://diegolibonati.com.ar/images/diegolibonatiglasses.webp" alt="Diego Libonati"/>
 
 <p align="center">
 
