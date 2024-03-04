@@ -85,6 +85,7 @@
 ![MySQL](https://img.shields.io/badge/MySQL-1572B6?style=for-the-badge&labelColor=black&logo=mysql&logoColor=1572B6)
 ![SQL](https://img.shields.io/badge/SQL-1572B6?style=for-the-badge&labelColor=black&logo=mysql&logoColor=1572B6)
 ![Docker](https://img.shields.io/badge/Docker-1572B6?style=for-the-badge&labelColor=black&logo=docker&logoColor=1572B6)
+![Docker](https://img.shields.io/badge/Redis-red?style=for-the-badge&labelColor=black&logo=redis&logoColor=red)
 ![Sqlite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&labelColor=black&logoColor=07405E)
 ![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&labelColor=black&logo=visual%20studio&logoColor=0078d7)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&labelColor=black&logo=git&logoColor=F05032)
