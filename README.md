@@ -33,16 +33,16 @@
 
 <p align="center">
  <a href="https://diegolibonati.com.ar" target="blank">
-  <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="diego libonati" />
+  <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&labelColor=black&logoColor=DC143C" alt="diego libonati" />
  </a>
  <a href="https://www.linkedin.com/in/diego-libonati-67102419b/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="diego libonati"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&labelColor=black&logoColor=0077B5" alt="diego libonati"/>
  </a>
  <a href="https://www.instagram.com/die_libonati/" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="diego libonati" />
+  <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&labelColor=black&logoColor=fe4164" alt="diego libonati" />
  </a> 
  <a href="https://www.facebook.com/dielibonati/" target="_blank">
-  <img src="https://img.shields.io/badge/Facebook-20BEFF?&style=for-the-badge&logo=facebook&logoColor=white" alt="diego libonati"  />
+  <img src="https://img.shields.io/badge/Facebook-20BEFF?&style=for-the-badge&logo=facebook&labelColor=black&logoColor=20BEFF" alt="diego libonati"  />
   </a> 
 </p>
 
