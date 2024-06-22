@@ -74,6 +74,7 @@
 ![Typescript](https://img.shields.io/badge/Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)
 ![React](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)
 ![React Native](https://img.shields.io/badge/React_Native-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)
+![NextJS](https://img.shields.io/badge/-Nextjs-61DBFB?style=for-the-badge&labelColor=black&logo=nextjs&logoColor=61DBFB)
 ![Nodejs](https://img.shields.io/badge/Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&labelColor=black&logo=css3&logoColor=1572B6)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&labelColor=black&logo=html5&logoColor=E34F26)
@@ -107,10 +108,10 @@
 <br/>
 
 ## Last Projects -
+[![FileManager-App](https://github-readme-stats.vercel.app/api/pin/?username=DiegoLibonati&repo=filemanager-app&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/DiegoLibonati/FileManager-App)
 [![UseKeyBoard](https://github-readme-stats.vercel.app/api/pin/?username=DiegoLibonati&repo=usekeyboard&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/DiegoLibonati/UseKeyBoard)
 [![CutTube](https://github-readme-stats.vercel.app/api/pin/?username=DiegoLibonati&repo=cuttube&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/DiegoLibonati/CutTube)
 [![Instagram-API](https://github-readme-stats.vercel.app/api/pin/?username=DiegoLibonati&repo=instagram-api&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/DiegoLibonati/Instagram-API)
-[![Stack Game 3D](https://github-readme-stats.vercel.app/api/pin/?username=DiegoLibonati&repo=stack-game-3d-page&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/DiegoLibonati/Stack-Game-3D-Page)
 
 <p align="left">
   <a href="https://github.com/DiegoLibonati?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
