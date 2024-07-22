@@ -111,10 +111,10 @@
 <br/>
 
 ## Last Projects -
+[![Pinturillo-Vue](https://github-readme-stats.vercel.app/api/pin/?username=DiegoLibonati&repo=pinturillo-vue&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/DiegoLibonati/Pinturillo-Vue)
 [![FileManager-App](https://github-readme-stats.vercel.app/api/pin/?username=DiegoLibonati&repo=filemanager-app&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/DiegoLibonati/FileManager-App)
 [![UseKeyBoard](https://github-readme-stats.vercel.app/api/pin/?username=DiegoLibonati&repo=usekeyboard&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/DiegoLibonati/UseKeyBoard)
 [![CutTube](https://github-readme-stats.vercel.app/api/pin/?username=DiegoLibonati&repo=cuttube&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/DiegoLibonati/CutTube)
-[![Instagram-API](https://github-readme-stats.vercel.app/api/pin/?username=DiegoLibonati&repo=instagram-api&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/DiegoLibonati/Instagram-API)
 
 <p align="left">
   <a href="https://github.com/DiegoLibonati?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
