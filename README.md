@@ -71,6 +71,7 @@
 ## Use To Code
 
 ![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
+![Socket.IO](https://img.shields.io/badge/Socket.io-F0DB4F.svg?style=for-the-badge&labelColor=black&logo=Socket.io&logoColor=F0DB4F)
 ![Typescript](https://img.shields.io/badge/Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)
 ![React](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)
 ![React Native](https://img.shields.io/badge/React_Native-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)
@@ -82,11 +83,13 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&labelColor=black&logoColor=ffdd54)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&labelColor=black&logo=mongodb&logoColor=4EA94B)
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&labelColor=black&logo=nginx&logoColor=%23009639)
+![VueJS](https://img.shields.io/badge/Vue.js-%23009639.svg?style=for-the-badge&labelColor=black&logo=Vue.js&logoColor=%23009639)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&labelColor=black&logo=bootstrap&logoColor=563D7C)
 ![MySQL](https://img.shields.io/badge/MySQL-1572B6?style=for-the-badge&labelColor=black&logo=mysql&logoColor=1572B6)
 ![SQL](https://img.shields.io/badge/SQL-1572B6?style=for-the-badge&labelColor=black&logo=mysql&logoColor=1572B6)
+![AngularJS](https://img.shields.io/badge/angular.JS-red.svg?style=for-the-badge&labelColor=black&logo=angular&logoColor=red)
 ![Docker](https://img.shields.io/badge/Docker-1572B6?style=for-the-badge&labelColor=black&logo=docker&logoColor=1572B6)
-![Docker](https://img.shields.io/badge/Redis-red?style=for-the-badge&labelColor=black&logo=redis&logoColor=red)
+![Redis](https://img.shields.io/badge/Redis-red?style=for-the-badge&labelColor=black&logo=redis&logoColor=red)
 ![Sqlite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&labelColor=black&logoColor=07405E)
 ![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&labelColor=black&logo=visual%20studio&logoColor=0078d7)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&labelColor=black&logo=git&logoColor=F05032)
