@@ -48,10 +48,6 @@
 
 <br />
 
-<img align="center" width="100%" src="https://diegolibonati.com.ar/images/diegolibonatiglasses.webp" alt="Diego Libonati"/>
-
-<br />
-
 <!-- About Section -->
  # About me
  
