@@ -104,7 +104,7 @@
 ![Jinja2](https://img.shields.io/badge/Jinja2-BE418F?style=for-the-badge&labelColor=black&logo=python&logoColor=BE418F)
 ![Vite](https://img.shields.io/badge/Vite-7F83FE?style=for-the-badge&labelColor=black&logo=vite&logoColor=7F83FE)
 ![React-Testing-Library](https://img.shields.io/badge/ReactTestingLibrary-7F83FE?style=for-the-badge&labelColor=black&logo=vite&logoColor=7F83FE)
-![Jest](https://img.shields.io/badge/Jest-7F83FE?style=for-the-badge&labelColor=black&logo=vite&logoColor=7F83FE)
+![Jest](https://img.shields.io/badge/Jest-7F83FE?style=for-the-badge&labelColor=black&logo=jest&logoColor=7F83FE)
 
 <br/>
 
