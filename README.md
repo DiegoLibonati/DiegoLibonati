@@ -105,6 +105,7 @@
 ![Vite](https://img.shields.io/badge/Vite-7F83FE?style=for-the-badge&labelColor=black&logo=vite&logoColor=7F83FE)
 ![React-Testing-Library](https://img.shields.io/badge/ReactTestingLibrary-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)
 ![Jest](https://img.shields.io/badge/Jest-7F83FE?style=for-the-badge&labelColor=black&logo=jest&logoColor=7F83FE)
+![Prisma](https://img.shields.io/badge/Nodejs-3C873A?style=for-the-badge&labelColor=4EA94B&logo=prisma&logoColor=black)
 
 <br/>
 
