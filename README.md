@@ -100,6 +100,7 @@
 ![PyGame](https://img.shields.io/badge/PyGame-BE418F?style=for-the-badge&labelColor=black&logo=python&logoColor=BE418F)
 ![Drag-And-Drop](https://img.shields.io/badge/DragAndDrop-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
 ![ThreeJS](https://img.shields.io/badge/ThreeJs-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
+![StoryBook](https://img.shields.io/badge/StoryBook-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
 ![PyTest](https://img.shields.io/badge/PyTest-BE418F?style=for-the-badge&labelColor=black&logo=python&logoColor=BE418F)
 ![Canvas](https://img.shields.io/badge/Canvas-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
 ![Jinja2](https://img.shields.io/badge/Jinja2-BE418F?style=for-the-badge&labelColor=black&logo=python&logoColor=BE418F)
