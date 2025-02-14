@@ -74,7 +74,7 @@
 ![NextJS](https://img.shields.io/badge/next.js-61DBFB?style=for-the-badge&labelColor=black&logo=nextdotjs&logoColor=61DBFB)
 ![Nodejs](https://img.shields.io/badge/Nodejs-3C873A?style=for-the-badge&labelColor=4EA94B&logo=node.js&logoColor=black)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&labelColor=black&logo=css3&logoColor=1572B6)
-![SCSS](https://img.shields.io/badge/SCSS-1572B6?style=for-the-badge&labelColor=black&logo=scss&logoColor=1572B6)
+![sass](https://img.shields.io/badge/sass-1572B6?style=for-the-badge&labelColor=black&logo=sass&logoColor=1572B6)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&labelColor=black&logo=html5&logoColor=E34F26)
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-092749?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4&labelColor=000000)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&labelColor=black&logoColor=ffdd54)
