@@ -110,10 +110,11 @@
 ![Jest](https://img.shields.io/badge/Jest-7F83FE?style=for-the-badge&labelColor=black&logo=jest&logoColor=7F83FE)
 ![Jest-expo](https://img.shields.io/badge/JestExpo-7F83FE?style=for-the-badge&labelColor=black&logo=jest&logoColor=7F83FE)
 ![Prisma](https://img.shields.io/badge/Prisma-3C873A?style=for-the-badge&labelColor=4EA94B&logo=prisma&logoColor=black)
+![GraphQL](https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 
 <br/>
 
-## Last Projects -
+## Some Projects -
 [![UseKeyBoard](https://github-readme-stats.vercel.app/api/pin/?username=DiegoLibonati&repo=noti-flask&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/DiegoLibonati/Noti-Flask)
 [![Json-Transformer](https://github-readme-stats.vercel.app/api/pin/?username=DiegoLibonati&repo=json-transformer&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/DiegoLibonati/JSON-Transformer)
 [![Pinturillo-Vue](https://github-readme-stats.vercel.app/api/pin/?username=DiegoLibonati&repo=pinturillo-vue&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/DiegoLibonati/Pinturillo-Vue)
