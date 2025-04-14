@@ -113,6 +113,7 @@
 ![Jest](https://img.shields.io/badge/Jest-7F83FE?style=for-the-badge&labelColor=black&logo=jest&logoColor=7F83FE)
 ![Jest-expo](https://img.shields.io/badge/JestExpo-7F83FE?style=for-the-badge&labelColor=black&logo=jest&logoColor=7F83FE)
 ![Prisma](https://img.shields.io/badge/Prisma-3C873A?style=for-the-badge&labelColor=4EA94B&logo=prisma&logoColor=black)
+![ViteTest](https://img.shields.io/badge/ViteTest-7F83FE?style=for-the-badge&labelColor=black&logo=vite&logoColor=7F83FE)
 
 ## Some apps used
 
