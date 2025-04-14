@@ -122,7 +122,8 @@
 ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&labelColor=black&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&labelColor=black&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-1572B6?style=for-the-badge&logo=docker&labelColor=black&logoColor=white)​
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&labelColor=black&logo=vercel&logoColor=white)​
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&labelColor=black&logo=vercel&logoColor=white)
+![npm](https://img.shields.io/badge/npm-CC3534?style=for-the-badge&logo=npm&labelColor=black&logoColor=white)​
 
 ## 🛢️ Databases
 
