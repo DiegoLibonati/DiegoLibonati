@@ -115,6 +115,7 @@
 ![Docker](https://img.shields.io/badge/Docker-1572B6?style=for-the-badge&labelColor=black&logo=docker&logoColor=1572B6)
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&labelColor=black&logo=nginx&logoColor=%23009639)
 ![Docker Desktop](https://img.shields.io/badge/Docker_Desktop-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
 
 ## 🛢️ Databases
 
