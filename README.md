@@ -147,7 +147,8 @@
 ![Drag-And-Drop](https://img.shields.io/badge/DragAndDrop-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=white)
 ![ThreeJS](https://img.shields.io/badge/ThreeJs-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=white)
 ![StoryBook](https://img.shields.io/badge/StoryBook-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=white)
-![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&labelColor=black&logo=eslint&logoColor=white)​
+![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&labelColor=black&logo=eslint&logoColor=white)
+![Pre-commit](https://img.shields.io/badge/pre--commit-000000?style=for-the-badge&labelColor=black&logo=prettier&logoColor=white)​
 ![Prettier](https://img.shields.io/badge/Prettier-F7B93E?style=for-the-badge&labelColor=black&logo=prettier&logoColor=white)
 ![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&labelColor=black&logo=axios&logoColor=white)
 ![Recoil](https://img.shields.io/badge/Recoil-3578E5?style=for-the-badge&labelColor=black&logo=recoil&logoColor=white)
