@@ -157,7 +157,8 @@
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&labelColor=black&logo=react-router&logoColor=white)
 ![Vue Router](https://img.shields.io/badge/Vue_Router-4FC08D?style=for-the-badge&labelColor=black&logo=vue.js&logoColor=white)​
 ![i18next](https://img.shields.io/badge/i18next-26A69A?style=for-the-badge&labelColor=black&logo=i18next&logoColor=white)​
-![Recharts](https://img.shields.io/badge/Recharts-FF6384?style=for-the-badge&labelColor=black&logo=recharts&logoColor=white)​
+![Recharts](https://img.shields.io/badge/Recharts-FF6384?style=for-the-badge&labelColor=black&logo=recharts&logoColor=white)
+![React Flow](https://img.shields.io/badge/React%20Flow-1A192B?style=for-the-badge&logo=react&labelColor=black&logoColor=61DAFB)​
 
 ## 👨‍💻 Other things </>
 
