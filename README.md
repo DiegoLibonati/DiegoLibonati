@@ -64,17 +64,16 @@
 
 <br/>
 
-## Use To Code
+## Some technologies used
 
 ![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
-![Socket.IO](https://img.shields.io/badge/Socket.io-F0DB4F.svg?style=for-the-badge&labelColor=black&logo=Socket.io&logoColor=F0DB4F)
 ![Typescript](https://img.shields.io/badge/Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)
 ![React](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)
 ![React Native](https://img.shields.io/badge/React_Native-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)
 ![NextJS](https://img.shields.io/badge/next.js-61DBFB?style=for-the-badge&labelColor=black&logo=nextdotjs&logoColor=61DBFB)
 ![Nodejs](https://img.shields.io/badge/Nodejs-3C873A?style=for-the-badge&labelColor=4EA94B&logo=node.js&logoColor=black)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&labelColor=black&logo=css3&logoColor=1572B6)
-![sass](https://img.shields.io/badge/sass-1572B6?style=for-the-badge&labelColor=black&logo=sass&logoColor=1572B6)
+![Sass](https://img.shields.io/badge/sass-1572B6?style=for-the-badge&labelColor=black&logo=sass&logoColor=1572B6)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&labelColor=black&logo=html5&logoColor=E34F26)
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-092749?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4&labelColor=000000)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&labelColor=black&logoColor=ffdd54)
@@ -88,10 +87,15 @@
 ![Docker](https://img.shields.io/badge/Docker-1572B6?style=for-the-badge&labelColor=black&logo=docker&logoColor=1572B6)
 ![Redis](https://img.shields.io/badge/Redis-red?style=for-the-badge&labelColor=black&logo=redis&logoColor=red)
 ![Sqlite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&labelColor=black&logoColor=07405E)
-![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&labelColor=black&logo=visual%20studio&logoColor=0078d7)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&labelColor=black&logo=git&logoColor=F05032)
-![Express.js](https://img.shields.io/badge/Express.js-3C873A?style=for-the-badge&logo=express&labelColor=black&logoColor=3C873A)
 ![Flask](https://img.shields.io/badge/Flask-FFFFFF?style=for-the-badge&labelColor=black&logo=flask&logoColor=FFFFFF)
+![Vite](https://img.shields.io/badge/Vite-7F83FE?style=for-the-badge&labelColor=black&logo=vite&logoColor=7F83FE)
+![GraphQL](https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+
+## Some libraries used
+
+![Socket.IO](https://img.shields.io/badge/Socket.io-F0DB4F.svg?style=for-the-badge&labelColor=black&logo=Socket.io&logoColor=F0DB4F)
+![Express.js](https://img.shields.io/badge/Express.js-3C873A?style=for-the-badge&logo=express&labelColor=black&logoColor=3C873A)
 ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&labelColor=black&logo=redux&logoColor=593D88)
 ![Expo](https://img.shields.io/badge/Expo-FFFFFF?style=for-the-badge&labelColor=black&logo=expo&logoColor=FFFFFF)
 ![Firebase](https://img.shields.io/badge/Firebase-F7C52E?style=for-the-badge&labelColor=black&logo=firebase&logoColor=F7C52E)
@@ -105,12 +109,15 @@
 ![PyTest](https://img.shields.io/badge/PyTest-BE418F?style=for-the-badge&labelColor=black&logo=python&logoColor=BE418F)
 ![Canvas](https://img.shields.io/badge/Canvas-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
 ![Jinja2](https://img.shields.io/badge/Jinja2-BE418F?style=for-the-badge&labelColor=black&logo=python&logoColor=BE418F)
-![Vite](https://img.shields.io/badge/Vite-7F83FE?style=for-the-badge&labelColor=black&logo=vite&logoColor=7F83FE)
 ![React-Testing-Library](https://img.shields.io/badge/ReactTestingLibrary-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)
 ![Jest](https://img.shields.io/badge/Jest-7F83FE?style=for-the-badge&labelColor=black&logo=jest&logoColor=7F83FE)
 ![Jest-expo](https://img.shields.io/badge/JestExpo-7F83FE?style=for-the-badge&labelColor=black&logo=jest&logoColor=7F83FE)
 ![Prisma](https://img.shields.io/badge/Prisma-3C873A?style=for-the-badge&labelColor=4EA94B&logo=prisma&logoColor=black)
-![GraphQL](https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+
+## Some apps used
+
+![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&labelColor=black&logo=visual%20studio&logoColor=0078d7)
+
 
 <br/>
 
