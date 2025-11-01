@@ -55,7 +55,7 @@
  <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
   
  🐥 &emsp; My name is Libonati Diego <br/><br/>
- 🇦🇷 &emsp; I am from Argentina<br/><br/>
+ 🇦🇷  &emsp; I am from Argentina<br/><br/>
  💯 &emsp; I have 27 years old<br/><br/>
  🐈 &emsp; The name of my pet is Otto<br/><br/>
  💬 &emsp; Ask me about anything [here](https://github.com/DiegoLibonati/DiegoLibonati/issues)
@@ -64,7 +64,6 @@
 
 <br/>
 
-## 💻 Languages & Core Tech
 
 ![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=white)
 ![Typescript](https://img.shields.io/badge/Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=white)
@@ -73,9 +72,6 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&labelColor=black&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-1572B6?style=for-the-badge&labelColor=black&logo=mysql&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&labelColor=black&logo=markdown&logoColor=white)​
-
-## 🧠 Frameworks & Libraries
-
 ![React](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=white)
 ![React Native](https://img.shields.io/badge/React_Native-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=white)
 ![NextJS](https://img.shields.io/badge/next.js-61DBFB?style=for-the-badge&labelColor=black&logo=nextdotjs&logoColor=white)
@@ -90,31 +86,19 @@
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&labelColor=black&logoColor=white)
 ![Electron](https://img.shields.io/badge/Electron-47848F?style=for-the-badge&labelColor=black&logo=electron&logoColor=white)
 ![Ionic](https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&labelColor=black&logo=ionic&logoColor=white)​
-
-## 🎨 Styling & UI
-
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-092749?style=for-the-badge&logo=tailwindcss&logoColor=white&labelColor=black)
 ![Sass](https://img.shields.io/badge/sass-1572B6?style=for-the-badge&labelColor=black&logo=sass&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&labelColor=black&logo=bootstrap&logoColor=white)
 ![Styled-Components](https://img.shields.io/badge/Styled--Components-db7093?style=for-the-badge&labelColor=black&logo=styled-components&logoColor=white)
-
-## ⚙️ Backend / Fullstack
-
 ![Nodejs](https://img.shields.io/badge/Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&labelColor=black&logoColor=white)
 ![Socket.IO](https://img.shields.io/badge/Socket.io-F0DB4F.svg?style=for-the-badge&labelColor=black&logo=Socket.io&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-F7C52E?style=for-the-badge&labelColor=black&logo=firebase&logoColor=white)​
-
-## 🧪 Testing
-
 ![React-Testing-Library](https://img.shields.io/badge/ReactTestingLibrary-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=white)
 ![Jest](https://img.shields.io/badge/Jest-7F83FE?style=for-the-badge&labelColor=black&logo=jest&logoColor=white)
 ![Jest-expo](https://img.shields.io/badge/JestExpo-7F83FE?style=for-the-badge&labelColor=black&logo=jest&logoColor=white)
 ![PyTest](https://img.shields.io/badge/PyTest-BE418F?style=for-the-badge&labelColor=black&logo=python&logoColor=white)
 ![Vitest](https://img.shields.io/badge/Vitest-7F83FE?style=for-the-badge&labelColor=black&logo=vite&logoColor=white)
-
-## 🔧 DevOps / Tools
-
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&labelColor=black&logo=git&logoColor=white)
 ​![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&labelColor=black&logoColor=white)
 ![GitLab CI/CD](https://img.shields.io/badge/GitLab_CI/CD-FC6D26?style=for-the-badge&labelColor=black&logo=gitlab&logoColor=white)
@@ -124,9 +108,6 @@
 ![Docker](https://img.shields.io/badge/Docker-1572B6?style=for-the-badge&logo=docker&labelColor=black&logoColor=white)​
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&labelColor=black&logo=vercel&logoColor=white)
 ![npm](https://img.shields.io/badge/npm-CC3534?style=for-the-badge&logo=npm&labelColor=black&logoColor=white)​
-
-## 🛢️ Databases
-
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&labelColor=black&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&labelColor=black&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-1572B6?style=for-the-badge&labelColor=black&logo=mysql&logoColor=white)
@@ -135,9 +116,6 @@
 ![Prisma](https://img.shields.io/badge/Prisma-3C873A?style=for-the-badge&labelColor=black&logo=prisma&logoColor=white)
 ![Firebase Firestore](https://img.shields.io/badge/Firebase_Firestore-FFCA28?style=for-the-badge&labelColor=black&logo=firebase&logoColor=white)
 ![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&labelColor=black&logo=mongoose&logoColor=white)
-
-## 🧰 Libraries & Others
-
 ![Expo](https://img.shields.io/badge/Expo-FFFFFF?style=for-the-badge&labelColor=black&logo=expo&logoColor=white)
 ![Tkinter](https://img.shields.io/badge/Tkinter-BE418F?style=for-the-badge&labelColor=black&logo=python&logoColor=white)
 ![PyMongo](https://img.shields.io/badge/PyMongo-4EA94B?style=for-the-badge&labelColor=black&logo=mongodb&logoColor=white)
@@ -159,9 +137,6 @@
 ![i18next](https://img.shields.io/badge/i18next-26A69A?style=for-the-badge&labelColor=black&logo=i18next&logoColor=white)​
 ![Recharts](https://img.shields.io/badge/Recharts-FF6384?style=for-the-badge&labelColor=black&logo=recharts&logoColor=white)
 ![React Flow](https://img.shields.io/badge/React%20Flow-1A192B?style=for-the-badge&logo=react&labelColor=black&logoColor=61DAFB)​
-
-## 👨‍💻 Other things </>
-
 ![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&labelColor=black&logo=visual%20studio&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&labelColor=black&logo=postman&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&labelColor=black&logo=figma&logoColor=white)
