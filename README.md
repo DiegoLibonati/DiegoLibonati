@@ -1,183 +1,217 @@
-<h2 align="center">
-  Welcome to Diego Libonati World!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h2>
+<h1 align="center">Diego Libonati - Software Developer </h1>
 
-<p align="center">
-  <a href="https://github.com/DiegoLibonati"><img src="https://readme-typing-svg.herokuapp.com/?lines=Self%20Taught%20Programmer;Full%20Stack%20Developer;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
-</p>
+###
 
-<a href="https://komarev.com/ghpvc/?username=DiegoLibonati">
-  <img align="left" src="https://komarev.com/ghpvc/?username=DiegoLibonati&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
-</a>
+<div width="100%">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=slice&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=gruvbox_light"  />
+</div>
 
-<a href="https://komarev.com/ghpvc/?username=DiegoLibonati">
-  <img align="right" src="https://komarev.com/ghpvc/?username=DiegoLibonati&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
-</a>
+###
 
-<h3 align="center">
-        <samp>&gt; Hey There!, I am
-                <b><a target="_blank" href="https://diegolibonati.com.ar">Diego Libonati</a></b>
-        </samp>
-</h3>
+<div align="center" width="100%">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=DiegoLibonati.DiegoLibonati&left_color=darkviolet&right_color=black"  />
+</div>
 
-<p align="center"> 
-  <samp>
-    <a href="https://www.google.com/search?q=diego+libonati">「 Google Me 」</a>
-    <br>
-    「 I am a full stack web application developer from <b>Argentina</b> 」
-    <br>
-    <br>
-  </samp>
-</p>
+###
 
-<p align="center">
- <a href="https://diegolibonati.com.ar" target="blank">
-  <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&labelColor=black&logoColor=DC143C" alt="diego libonati" />
- </a>
- <a href="https://www.linkedin.com/in/diego-libonati-67102419b/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&labelColor=black&logoColor=0077B5" alt="diego libonati"/>
- </a>
- <a href="https://www.instagram.com/die_libonati/" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&labelColor=black&logoColor=fe4164" alt="diego libonati" />
- </a> 
- <a href="https://www.facebook.com/dielibonati/" target="_blank">
-  <img src="https://img.shields.io/badge/Facebook-20BEFF?&style=for-the-badge&logo=facebook&labelColor=black&logoColor=20BEFF" alt="diego libonati"  />
-  </a> 
-</p>
-
-<br />
-
-<!-- About Section -->
- # About me
- 
-<p>
- <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
-  
- 🐥 &emsp; My name is Libonati Diego <br/><br/>
- 🇦🇷  &emsp; I am from Argentina<br/><br/>
- 💯 &emsp; I have 27 years old<br/><br/>
- 🐈 &emsp; The name of my pet is Otto<br/><br/>
- 💬 &emsp; Ask me about anything [here](https://github.com/DiegoLibonati/DiegoLibonati/issues)
-
-</p>
-
-<br/>
-
-# Technologies
-
-![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=white)
-![Typescript](https://img.shields.io/badge/Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&labelColor=black&logo=css3&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&labelColor=black&logo=html5&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&labelColor=black&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-1572B6?style=for-the-badge&labelColor=black&logo=mysql&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&labelColor=black&logo=markdown&logoColor=white)​
-![React](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=white)
-![NextJS](https://img.shields.io/badge/next.js-61DBFB?style=for-the-badge&labelColor=black&logo=nextdotjs&logoColor=white)
-![VueJS](https://img.shields.io/badge/Vue.js-%23009639.svg?style=for-the-badge&labelColor=black&logo=Vue.js&logoColor=white)
-![AngularJS](https://img.shields.io/badge/angular.JS-red.svg?style=for-the-badge&labelColor=black&logo=angular&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-3C873A?style=for-the-badge&logo=express&labelColor=black&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-FFFFFF?style=for-the-badge&labelColor=black&logo=flask&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-7F83FE?style=for-the-badge&labelColor=black&logo=vite&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&labelColor=black&logo=redux&logoColor=white)
-![Zustand](https://img.shields.io/badge/Zustand-000?style=for-the-badge&labelColor=black&logo=Zustand&logoColor=white)
-![Apollo Server](https://img.shields.io/badge/Apollo_Server-311C87?style=for-the-badge&labelColor=black&logo=apollo-graphql&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&labelColor=black&logoColor=white)
-![Electron](https://img.shields.io/badge/Electron-47848F?style=for-the-badge&labelColor=black&logo=electron&logoColor=white)
-![Ionic](https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&labelColor=black&logo=ionic&logoColor=white)​
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-092749?style=for-the-badge&logo=tailwindcss&logoColor=white&labelColor=black)
-![Sass](https://img.shields.io/badge/sass-1572B6?style=for-the-badge&labelColor=black&logo=sass&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&labelColor=black&logo=bootstrap&logoColor=white)
-![Styled-Components](https://img.shields.io/badge/Styled--Components-db7093?style=for-the-badge&labelColor=black&logo=styled-components&logoColor=white)
-![Nodejs](https://img.shields.io/badge/Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&labelColor=black&logoColor=white)
-![Socket.IO](https://img.shields.io/badge/Socket.io-F0DB4F.svg?style=for-the-badge&labelColor=black&logo=Socket.io&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-F7C52E?style=for-the-badge&labelColor=black&logo=firebase&logoColor=white)​
-![React-Testing-Library](https://img.shields.io/badge/ReactTestingLibrary-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=white)
-![Jest](https://img.shields.io/badge/Jest-7F83FE?style=for-the-badge&labelColor=black&logo=jest&logoColor=white)
-![Jest-expo](https://img.shields.io/badge/JestExpo-7F83FE?style=for-the-badge&labelColor=black&logo=jest&logoColor=white)
-![PyTest](https://img.shields.io/badge/PyTest-BE418F?style=for-the-badge&labelColor=black&logo=python&logoColor=white)
-![Vitest](https://img.shields.io/badge/Vitest-7F83FE?style=for-the-badge&labelColor=black&logo=vite&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&labelColor=black&logo=git&logoColor=white)
-​![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&labelColor=black&logoColor=white)
-![GitLab CI/CD](https://img.shields.io/badge/GitLab_CI/CD-FC6D26?style=for-the-badge&labelColor=black&logo=gitlab&logoColor=white)
-![Docker Desktop](https://img.shields.io/badge/Docker_Desktop-2496ED?style=for-the-badge&labelColor=black&logo=docker&logoColor=white)
-![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&labelColor=black&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&labelColor=black&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-1572B6?style=for-the-badge&logo=docker&labelColor=black&logoColor=white)​
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&labelColor=black&logo=vercel&logoColor=white)
-![npm](https://img.shields.io/badge/npm-CC3534?style=for-the-badge&logo=npm&labelColor=black&logoColor=white)​
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&labelColor=black&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&labelColor=black&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-1572B6?style=for-the-badge&labelColor=black&logo=mysql&logoColor=white)
-![Sqlite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&labelColor=black&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-red?style=for-the-badge&labelColor=black&logo=redis&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-3C873A?style=for-the-badge&labelColor=black&logo=prisma&logoColor=white)
-![Firebase Firestore](https://img.shields.io/badge/Firebase_Firestore-FFCA28?style=for-the-badge&labelColor=black&logo=firebase&logoColor=white)
-![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&labelColor=black&logo=mongoose&logoColor=white)
-![Expo](https://img.shields.io/badge/Expo-FFFFFF?style=for-the-badge&labelColor=black&logo=expo&logoColor=white)
-![Tkinter](https://img.shields.io/badge/Tkinter-BE418F?style=for-the-badge&labelColor=black&logo=python&logoColor=white)
-![PyMongo](https://img.shields.io/badge/PyMongo-4EA94B?style=for-the-badge&labelColor=black&logo=mongodb&logoColor=white)
-![MongoEngine](https://img.shields.io/badge/MongoEngine-4EA94B?style=for-the-badge&labelColor=black&logo=mongodb&logoColor=white)
-![PyGame](https://img.shields.io/badge/PyGame-BE418F?style=for-the-badge&labelColor=black&logo=python&logoColor=white)
-![Jinja2](https://img.shields.io/badge/Jinja2-BE418F?style=for-the-badge&labelColor=black&logo=python&logoColor=white)
-![Canvas](https://img.shields.io/badge/Canvas-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=white)
-![Drag-And-Drop](https://img.shields.io/badge/DragAndDrop-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=white)
-![ThreeJS](https://img.shields.io/badge/ThreeJs-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=white)
-![StoryBook](https://img.shields.io/badge/StoryBook-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=white)
-![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&labelColor=black&logo=eslint&logoColor=white)
-![Pre-commit](https://img.shields.io/badge/pre--commit-000000?style=for-the-badge&labelColor=black&logo=prettier&logoColor=white)​
-![Prettier](https://img.shields.io/badge/Prettier-F7B93E?style=for-the-badge&labelColor=black&logo=prettier&logoColor=white)
-![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&labelColor=black&logo=axios&logoColor=white)
-![Recoil](https://img.shields.io/badge/Recoil-3578E5?style=for-the-badge&labelColor=black&logo=recoil&logoColor=white)
-![Pinia](https://img.shields.io/badge/Pinia-2D3748?style=for-the-badge&logo=pinia&labelColor=black&logoColor=white)
-![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&labelColor=black&logo=react-router&logoColor=white)
-![Vue Router](https://img.shields.io/badge/Vue_Router-4FC08D?style=for-the-badge&labelColor=black&logo=vue.js&logoColor=white)​
-![i18next](https://img.shields.io/badge/i18next-26A69A?style=for-the-badge&labelColor=black&logo=i18next&logoColor=white)​
-![Recharts](https://img.shields.io/badge/Recharts-FF6384?style=for-the-badge&labelColor=black&logo=recharts&logoColor=white)
-![React Flow](https://img.shields.io/badge/React%20Flow-1A192B?style=for-the-badge&logo=react&labelColor=black&logoColor=61DAFB)​
-![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&labelColor=black&logo=visual%20studio&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&labelColor=black&logo=postman&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&labelColor=black&logo=figma&logoColor=white)
-![Insomnia](https://img.shields.io/badge/Insomnia-4000BF?style=for-the-badge&labelColor=black&logo=insomnia&logoColor=white)
-![Robo 3T](https://img.shields.io/badge/Robo_3T-59C137?style=for-the-badge&labelColor=black&logo=mongodb&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&labelColor=black&logo=android-studio&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&labelColor=black&logo=jira&logoColor=white)
-
-<br/>
-
-## Some Projects -
-[![NotiFlask](https://github-readme-stats.vercel.app/api/pin/?username=DiegoLibonati&repo=noti-flask&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/DiegoLibonati/Noti-Flask)
-[![Json-Transformer](https://github-readme-stats.vercel.app/api/pin/?username=DiegoLibonati&repo=json-transformer&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/DiegoLibonati/JSON-Transformer)
-[![Pinturillo-Vue](https://github-readme-stats.vercel.app/api/pin/?username=DiegoLibonati&repo=pinturillo-vue&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/DiegoLibonati/Pinturillo-Vue)
-[![FileManager-App](https://github-readme-stats.vercel.app/api/pin/?username=DiegoLibonati&repo=filemanager-app&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/DiegoLibonati/FileManager-App)
-
-<p align="left">
-  <a href="https://github.com/DiegoLibonati?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
-</p>
-
-<br/>
-<hr/>
-<br/>
-
-<p align="center">
-  <a href="https://github.com/DiegoLibonati">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=DiegoLibonati&theme=radical&border=7F3FBF&background=0D1117" alt="Diego Libonati GitHub streak"/>
+<div align="center"width="100%">
+  <a href="https://diegolibonati.com.ar/" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/10456/10456439.png" width="52" height="50" alt="website logo"  />
   </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/DiegoLibonati">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DiegoLibonati&theme=radical" alt="Diego Libonati GitHub Contribution"/>
+  <img width="12" />
+  <a href="https://www.linkedin.com/in/diego-libonati-67102419b/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="50" alt="linkedin logo"  />
   </a>
-</p>
+  <img width="12" />
+  <a href="https://www.instagram.com/die_libonati/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="50" alt="instagram logo"  />
+  </a>
+  <img width="12" />
+  <a href="https://www.facebook.com/dielibonati/?locale=es_LA" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="50" alt="facebook logo"  />
+  </a>
+</div>
 
-<a> 
-    <a href="https://github.com/DiegoLibonati"><img alt="Diego Libonati Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=DiegoLibonati&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-  <a href="https://github.com/DiegoLibonati"><img alt="Diego Libonati Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=DiegoLibonati&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-  <br/>
-</a>
+###
 
-![Diego Libonati Graph](https://github-readme-activity-graph.vercel.app/graph?username=DiegoLibonati&custom_title=Diego%20Libonati%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+<div width="100%">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=soft&height=100&section=footer&reversal=false&text=Technologies&fontSize=70&fontAlign=50&fontAlignY=50&stroke=-&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=gruvbox_light"  />
+</div>
+
+###
+
+<div align="center">
+
+  <!-- Lenguajes -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" height="40" alt="markdown" />
+  <img width="12" />
+
+  <!-- Frontend Frameworks -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="vue" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angular" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original.svg" height="40" alt="ionic" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" height="40" alt="electron" />
+  <img width="12" />
+
+  <!-- Backend Frameworks -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="flask" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django" />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="40" alt="nodejs" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" height="40" alt="graphql" />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/apollographql/311C87" height="40" alt="apollographql" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" height="40" alt="socketio" />
+  <img width="12" />
+
+  <!-- Bases de Datos -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40" alt="redis" />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/prisma/2D3748" height="40" alt="prisma" />
+  <img width="12" />
+  <img src="https://www.nicepng.com/png/full/207-2073547_sql-server-icon-png-29-transparent-background-database.png" height="40" alt="sql server" />
+  <img width="12" />
+  <img src="https://user-images.githubusercontent.com/12401985/69677316-60423a00-1081-11ea-9ec6-7334c0e491a5.png" height="40" alt="robo3t" />
+  <img width="12" />
+
+  <!-- Estilos -->
+  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40" alt="tailwindcss" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" alt="sass" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=styledcomponents" height="40" alt="styledcomponents" />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/vite/646CFF" height="40" alt="vite" />
+  <img width="12" />
+
+  <!-- Testing -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytest/pytest-original.svg" height="40" alt="pytest" />
+  <img width="12" />
+  <img src="https://testing-library.com/img/octopus-128x128.png" height="40" alt="react testing library" />
+  <img width="12" />
+  <img src="https://files.svgcdn.io/logos/vitest.png" height="40" alt="vitest" />
+  <img width="12" />
+
+  <!-- DevOps & Herramientas -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="40" alt="gitlab" />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/npm/CB3837" height="40" alt="npm" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker" />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/nginx/009639" height="40" alt="nginx" />
+  <img width="12" />
+
+  <!-- Herramientas de Desarrollo -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode" />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/postman/FF6C37" height="40" alt="postman" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/insomnia/insomnia-original.svg" height="40" alt="insomnia" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="40" alt="jira" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="androidstudio" />
+  <img width="12" />
+
+  <!-- Otros -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" alt="redux" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="storybook" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg" height="40" alt="eslint" />
+  <img width="12" />
+  <img src="https://cdn.creazilla.com/icons/3243981/expo-icon-lg.png" height="40" alt="expo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg" height="40" alt="threejs" />
+  <img width="12" />
+  <img src="https://images.icon-icons.com/3912/PNG/512/jinja_logo_icon_247964.png" height="40" alt="jinja2" />
+  <img width="12" />
+  <img src="https://user-images.githubusercontent.com/46412508/170405943-e75458ec-6cb4-462e-91ba-43c861a3d6cf.png" height="40" alt="pygame" />
+  <img width="12" />
+  <img src="https://pre-commit.com/logo.svg" height="40" alt="pre-commit" />
+  <img width="12" />
+  <img src="https://cdn.freebiesupply.com/logos/large/2x/prettier-2-logo-png-transparent.png" height="40" alt="prettier" />
+</div>
+
+###
+
+<div width="100%">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=soft&height=100&section=header&reversal=false&text=Projects&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=gruvbox_light"  />
+</div>
+
+###
+
+<div align="center">
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=DiegoLibonati&repo=noti-flask&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/DiegoLibonati/Noti-Flask"  />
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=DiegoLibonati&repo=json-transformer&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF"  />
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=DiegoLibonati&repo=pinturillo-vue&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF"  />
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=DiegoLibonati&repo=filemanager-app&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF"  />
+</div>
+
+###
+
+<div width="100%">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=soft&height=100&section=header&reversal=false&text=Stats&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=gruvbox_light"  />
+</div>
+
+###
+
+<div align="center" width="100%">
+  <img src="https://github-readme-stats.vercel.app/api?username=DiegoLibonati&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DiegoLibonati&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=DiegoLibonati&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=DiegoLibonati&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DiegoLibonati&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+</div>
+
+
+###
+
+<div width="100%">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=slice&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=gruvbox_light"  />
+</div>
+
+###
