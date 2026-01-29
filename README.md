@@ -184,29 +184,445 @@
 
 ###
 
-<div align="center">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=DiegoLibonati&repo=noti-flask&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/DiegoLibonati/Noti-Flask"  />
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=DiegoLibonati&repo=json-transformer&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF"  />
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=DiegoLibonati&repo=pinturillo-vue&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF"  />
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=DiegoLibonati&repo=filemanager-app&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF"  />
-</div>
-
-###
-
 <div width="100%">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=soft&height=100&section=header&reversal=false&text=Stats&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=gruvbox_light"  />
+  <div>
+    <span>🎮</span>
+    <span><a href="https://github.com/DiegoLibonati/3D-Object-Viewer">3D-Object-Viewer</a></span>
+    <span>A 3D object viewer built with Three.js to visualize and interact with 3D models.</span>
+  </div>
+  
+  <div>
+    <span>🎵</span>
+    <span><a href="https://github.com/DiegoLibonati/Accordion-React">Accordion-React</a></span>
+    <span>An accordion component built with React to show/hide content sections.</span>
+  </div>
+  
+  <div>
+    <span>🎂</span>
+    <span><a href="https://github.com/DiegoLibonati/Age-Calculator-Program">Age-Calculator-Program</a></span>
+    <span>A Python program to calculate your exact age in years, months and days.</span>
+  </div>
+  
+  <div>
+    <span>🎉</span>
+    <span><a href="https://github.com/DiegoLibonati/Birthday-React">Birthday-React</a></span>
+    <span>A React app to display and manage birthday reminders.</span>
+  </div>
+  
+  <div>
+    <span>📚</span>
+    <span><a href="https://github.com/DiegoLibonati/Bookstore-React-Flask">Bookstore-React-Flask</a></span>
+    <span>A full-stack bookstore application with React frontend and Flask backend.</span>
+  </div>
+  
+  <div>
+    <span>🎮</span>
+    <span><a href="https://github.com/DiegoLibonati/Breakout-Game">Breakout-Game</a></span>
+    <span>The classic Breakout arcade game built with TypeScript and Canvas.</span>
+  </div>
+  
+  <div>
+    <span>📱</span>
+    <span><a href="https://github.com/DiegoLibonati/Calculator-Native">Calculator-Native</a></span>
+    <span>A calculator mobile app built with React Native and Expo.</span>
+  </div>
+  
+  <div>
+    <span>🔢</span>
+    <span><a href="https://github.com/DiegoLibonati/Calculator-Page">Calculator-Page</a></span>
+    <span>A web calculator with basic arithmetic operations.</span>
+  </div>
+  
+  <div>
+    <span>🛒</span>
+    <span><a href="https://github.com/DiegoLibonati/Cart-React">Cart-React</a></span>
+    <span>A shopping cart application built with React and Redux.</span>
+  </div>
+  
+  <div>
+    <span>🎨</span>
+    <span><a href="https://github.com/DiegoLibonati/Color-Flipper">Color-Flipper</a></span>
+    <span>A web app that generates random colors with a button click.</span>
+  </div>
+  
+  <div>
+    <span>🌈</span>
+    <span><a href="https://github.com/DiegoLibonati/Color-Generator">Color-Generator</a></span>
+    <span>A color palette generator that creates shades and tints from any color.</span>
+  </div>
+  
+  <div>
+    <span>⏰</span>
+    <span><a href="https://github.com/DiegoLibonati/Countdown-Page">Countdown-Page</a></span>
+    <span>A countdown timer to track time until a specific date.</span>
+  </div>
+  
+  <div>
+    <span>🔢</span>
+    <span><a href="https://github.com/DiegoLibonati/Counter-Page">Counter-Page</a></span>
+    <span>A simple counter with increment, decrement and reset functionality.</span>
+  </div>
+  
+  <div>
+    <span>➕</span>
+    <span><a href="https://github.com/DiegoLibonati/Counter-React">Counter-React</a></span>
+    <span>A counter application built with React hooks.</span>
+  </div>
+  
+  <div>
+    <span>✂️</span>
+    <span><a href="https://github.com/DiegoLibonati/CutTube">CutTube</a></span>
+    <span>A web app to download and cut YouTube videos.</span>
+  </div>
+  
+  <div>
+    <span>🎬</span>
+    <span><a href="https://github.com/DiegoLibonati/Die-GifsApp">Die-GifsApp</a></span>
+    <span>A GIF search application using the Giphy API.</span>
+  </div>
+  
+  <div>
+    <span>👤</span>
+    <span><a href="https://github.com/DiegoLibonati/DiegoLibonati">DiegoLibonati</a></span>
+    <span>My GitHub profile README with personal information and stats.</span>
+  </div>
+  
+  <div>
+    <span>🎨</span>
+    <span><a href="https://github.com/DiegoLibonati/Drawing-Page">Drawing-Page</a></span>
+    <span>A web drawing application with canvas and various brush tools.</span>
+  </div>
+  
+  <div>
+    <span>🛍️</span>
+    <span><a href="https://github.com/DiegoLibonati/DShop">DShop</a></span>
+    <span>An e-commerce application with React, Flask, MongoDB and Docker.</span>
+  </div>
+  
+  <div>
+    <span>🔐</span>
+    <span><a href="https://github.com/DiegoLibonati/Encrypter-And-Decrypter-Program">Encrypter-And-Decrypter-Program</a></span>
+    <span>A Python program to encrypt and decrypt text messages.</span>
+  </div>
+  
+  <div>
+    <span>🃏</span>
+    <span><a href="https://github.com/DiegoLibonati/Expanding-Cards">Expanding-Cards</a></span>
+    <span>Interactive expanding cards with smooth animations on click.</span>
+  </div>
+  
+  <div>
+    <span>📁</span>
+    <span><a href="https://github.com/DiegoLibonati/File-Organizer-Program">File-Organizer-Program</a></span>
+    <span>A Python program to automatically organize files by extension.</span>
+  </div>
+  
+  <div>
+    <span>📂</span>
+    <span><a href="https://github.com/DiegoLibonati/FileManager-NextJS">FileManager-NextJS</a></span>
+    <span>A file manager web application built with Next.js and Firebase.</span>
+  </div>
+  
+  <div>
+    <span>🚩</span>
+    <span><a href="https://github.com/DiegoLibonati/FlagsGame">FlagsGame</a></span>
+    <span>A quiz game to guess countries by their flags.</span>
+  </div>
+  
+  <div>
+    <span>🎮</span>
+    <span><a href="https://github.com/DiegoLibonati/FreeToPlayGames">FreeToPlayGames</a></span>
+    <span>A web app to browse and search free-to-play games.</span>
+  </div>
+  
+  <div>
+    <span>👥</span>
+    <span><a href="https://github.com/DiegoLibonati/Github-Profiles">Github-Profiles</a></span>
+    <span>A web app to search and display GitHub user profiles.</span>
+  </div>
+  
+  <div>
+    <span>🛒</span>
+    <span><a href="https://github.com/DiegoLibonati/Grocery-Bud-Page">Grocery-Bud-Page</a></span>
+    <span>A grocery list application with local storage persistence.</span>
+  </div>
+  
+  <div>
+    <span>🥬</span>
+    <span><a href="https://github.com/DiegoLibonati/Grocery-Bud-React">Grocery-Bud-React</a></span>
+    <span>A grocery list app built with React and local storage.</span>
+  </div>
+  
+  <div>
+    <span>🦸</span>
+    <span><a href="https://github.com/DiegoLibonati/HeroesApp">HeroesApp</a></span>
+    <span>A superhero search application using the Superhero API.</span>
+  </div>
+  
+  <div>
+    <span>⚖️</span>
+    <span><a href="https://github.com/DiegoLibonati/IMC-Calculator-Program">IMC-Calculator-Program</a></span>
+    <span>A Python program to calculate Body Mass Index (BMI).</span>
+  </div>
+  
+  <div>
+    <span>📸</span>
+    <span><a href="https://github.com/DiegoLibonati/Instagram-API">Instagram-API</a></span>
+    <span>An API wrapper to access Instagram Graph API efficiently.</span>
+  </div>
+  
+  <div>
+    <span>🔄</span>
+    <span><a href="https://github.com/DiegoLibonati/JSON-Transformer">JSON-Transformer</a></span>
+    <span>A tool to automate JSON file creation and translation.</span>
+  </div>
+  
+  <div>
+    <span>📖</span>
+    <span><a href="https://github.com/DiegoLibonati/Library-Python-POO">Library-Python-POO</a></span>
+    <span>A library management system in Python using OOP principles.</span>
+  </div>
+  
+  <div>
+    <span>🔑</span>
+    <span><a href="https://github.com/DiegoLibonati/Login-Program">Login-Program</a></span>
+    <span>A registration and login system with Python, Tkinter and MongoDB.</span>
+  </div>
+  
+  <div>
+    <span>📝</span>
+    <span><a href="https://github.com/DiegoLibonati/Lorem-Ipsum-Page">Lorem-Ipsum-Page</a></span>
+    <span>A Lorem Ipsum text generator based on paragraph count.</span>
+  </div>
+  
+  <div>
+    <span>📄</span>
+    <span><a href="https://github.com/DiegoLibonati/Lorem-Ipsum-React">Lorem-Ipsum-React</a></span>
+    <span>A Lorem Ipsum generator built with React.</span>
+  </div>
+  
+  <div>
+    <span>🧠</span>
+    <span><a href="https://github.com/DiegoLibonati/Memory-Game">Memory-Game</a></span>
+    <span>The classic memory card matching game.</span>
+  </div>
+  
+  <div>
+    <span>🍔</span>
+    <span><a href="https://github.com/DiegoLibonati/Menu-Page">Menu-Page</a></span>
+    <span>A restaurant menu page with category filtering.</span>
+  </div>
+  
+  <div>
+    <span>🍕</span>
+    <span><a href="https://github.com/DiegoLibonati/Menu-React">Menu-React</a></span>
+    <span>A restaurant menu application built with React.</span>
+  </div>
+  
+  <div>
+    <span>📓</span>
+    <span><a href="https://github.com/DiegoLibonati/Notepad-Program">Notepad-Program</a></span>
+    <span>A Python notepad with file operations and font customization.</span>
+  </div>
+  
+  <div>
+    <span>📱</span>
+    <span><a href="https://github.com/DiegoLibonati/Notes-Native">Notes-Native</a></span>
+    <span>A notes app built with React Native and Expo.</span>
+  </div>
+  
+  <div>
+    <span>🗒️</span>
+    <span><a href="https://github.com/DiegoLibonati/Notes-Page">Notes-Page</a></span>
+    <span>A web notes application with create, edit and delete features.</span>
+  </div>
+  
+  <div>
+    <span>📝</span>
+    <span><a href="https://github.com/DiegoLibonati/Noti-Flask">Noti-Flask</a></span>
+    <span>A notes web app with user authentication using Flask.</span>
+  </div>
+  
+  <div>
+    <span>🔒</span>
+    <span><a href="https://github.com/DiegoLibonati/Password-Generator">Password-Generator</a></span>
+    <span>A random password generator with customizable options.</span>
+  </div>
+  
+  <div>
+    <span>📺</span>
+    <span><a href="https://github.com/DiegoLibonati/PerfectTV">PerfectTV</a></span>
+    <span>A TV channel viewer with GraphQL server and CRUD operations.</span>
+  </div>
+  
+  <div>
+    <span>🎨</span>
+    <span><a href="https://github.com/DiegoLibonati/Pinturillo-Vue-NodeJS">Pinturillo-Vue-NodeJS</a></span>
+    <span>A multiplayer drawing and guessing game with Vue and Socket.io.</span>
+  </div>
+  
+  <div>
+    <span>❓</span>
+    <span><a href="https://github.com/DiegoLibonati/Questions-Page">Questions-Page</a></span>
+    <span>A FAQ accordion system with expand/collapse functionality.</span>
+  </div>
+  
+  <div>
+    <span>🍳</span>
+    <span><a href="https://github.com/DiegoLibonati/RecipeIG">RecipeIG</a></span>
+    <span>A recipe app with Instagram-style stories using TheMealDB API.</span>
+  </div>
+  
+  <div>
+    <span>🎙️</span>
+    <span><a href="https://github.com/DiegoLibonati/Record-Audio-Program">Record-Audio-Program</a></span>
+    <span>A Python program to record audio from microphone.</span>
+  </div>
+  
+  <div>
+    <span>⭐</span>
+    <span><a href="https://github.com/DiegoLibonati/Reviews-Page">Reviews-Page</a></span>
+    <span>A reviews slider with navigation and random review feature.</span>
+  </div>
+  
+  <div>
+    <span>💬</span>
+    <span><a href="https://github.com/DiegoLibonati/Reviews-React">Reviews-React</a></span>
+    <span>A reviews section component built with React.</span>
+  </div>
+  
+  <div>
+    <span>✊</span>
+    <span><a href="https://github.com/DiegoLibonati/Rock-Paper-Scissors-Game">Rock-Paper-Scissors-Game</a></span>
+    <span>The classic rock paper scissors game against AI.</span>
+  </div>
+  
+  <div>
+    <span>🔴</span>
+    <span><a href="https://github.com/DiegoLibonati/Simon-Says-Game">Simon-Says-Game</a></span>
+    <span>The Simon Says memory game with multiple difficulty levels.</span>
+  </div>
+  
+  <div>
+    <span>🎠</span>
+    <span><a href="https://github.com/DiegoLibonati/Slider-React">Slider-React</a></span>
+    <span>An infinite slider component built with React.</span>
+  </div>
+  
+  <div>
+    <span>🚀</span>
+    <span><a href="https://github.com/DiegoLibonati/Space-Runner-Game-Program">Space-Runner-Game-Program</a></span>
+    <span>A PyGame space runner with monsters and power-ups.</span>
+  </div>
+  
+  <div>
+    <span>🗣️</span>
+    <span><a href="https://github.com/DiegoLibonati/Speech-Program">Speech-Program</a></span>
+    <span>A Python text-to-speech program with language selection.</span>
+  </div>
+  
+  <div>
+    <span>✏️</span>
+    <span><a href="https://github.com/DiegoLibonati/Spelling-Checker-Program">Spelling-Checker-Program</a></span>
+    <span>A Python program to correct and predict misspelled words.</span>
+  </div>
+  
+  <div>
+    <span>📦</span>
+    <span><a href="https://github.com/DiegoLibonati/Stack-Game-3D">Stack-Game-3D</a></span>
+    <span>A 3D block stacking game built with Three.js.</span>
+  </div>
+  
+  <div>
+    <span>⏱️</span>
+    <span><a href="https://github.com/DiegoLibonati/Stopwatch-Native">Stopwatch-Native</a></span>
+    <span>A stopwatch app with lap tracking and customizable skins.</span>
+  </div>
+  
+  <div>
+    <span>📑</span>
+    <span><a href="https://github.com/DiegoLibonati/Stripe-Menu-React">Stripe-Menu-React</a></span>
+    <span>A Stripe-style dropdown navigation menu in React.</span>
+  </div>
+  
+  <div>
+    <span>📋</span>
+    <span><a href="https://github.com/DiegoLibonati/Tabs-Page">Tabs-Page</a></span>
+    <span>A tabs component to switch between content sections.</span>
+  </div>
+  
+  <div>
+    <span>🗂️</span>
+    <span><a href="https://github.com/DiegoLibonati/Tabs-React">Tabs-React</a></span>
+    <span>A tabs component built with React.</span>
+  </div>
+  
+  <div>
+    <span>✅</span>
+    <span><a href="https://github.com/DiegoLibonati/TaskManager-Python-POO">TaskManager-Python-POO</a></span>
+    <span>A task manager in Python with priorities and due dates.</span>
+  </div>
+  
+  <div>
+    <span>🛠️</span>
+    <span><a href="https://github.com/DiegoLibonati/Template-Vite-Vanilla-TS">Template-Vite-Vanilla-TS</a></span>
+    <span>A personal template for Vite Vanilla TypeScript projects.</span>
+  </div>
+  
+  <div>
+    <span>🍹</span>
+    <span><a href="https://github.com/DiegoLibonati/TheCocktailDB">TheCocktailDB</a></span>
+    <span>A cocktail search app using TheCocktailDB API.</span>
+  </div>
+  
+  <div>
+    <span>📝</span>
+    <span><a href="https://github.com/DiegoLibonati/ToDo-Page">ToDo-Page</a></span>
+    <span>A ToDo app with drag and drop functionality.</span>
+  </div>
+  
+  <div>
+    <span>☑️</span>
+    <span><a href="https://github.com/DiegoLibonati/ToDo-React-Redux">ToDo-React-Redux</a></span>
+    <span>A ToDo app with categories using React and Redux.</span>
+  </div>
+  
+  <div>
+    <span>🔍</span>
+    <span><a href="https://github.com/DiegoLibonati/TokenSentry">TokenSentry</a></span>
+    <span>A VSCode extension to detect sensitive data before commits.</span>
+  </div>
+  
+  <div>
+    <span>✈️</span>
+    <span><a href="https://github.com/DiegoLibonati/ToursApp">ToursApp</a></span>
+    <span>A tour listing app with show/hide info and delete features.</span>
+  </div>
+  
+  <div>
+    <span>⌨️</span>
+    <span><a href="https://github.com/DiegoLibonati/UseKeyBoard">UseKeyBoard</a></span>
+    <span>A React library hook to execute code based on key presses.</span>
+  </div>
+  
+  <div>
+    <span>🌤️</span>
+    <span><a href="https://github.com/DiegoLibonati/Weather-Page">Weather-Page</a></span>
+    <span>A weather app using the Weather API.</span>
+  </div>
+  
+  <div>
+    <span>☁️</span>
+    <span><a href="https://github.com/DiegoLibonati/Weather-Program">Weather-Program</a></span>
+    <span>A Python weather checker with Tkinter GUI.</span>
+  </div>
+  
+  <div>
+    <span>🐹</span>
+    <span><a href="https://github.com/DiegoLibonati/Whac-A-Mole-Game">Whac-A-Mole-Game</a></span>
+    <span>The classic Whac-A-Mole arcade game with 60 seconds timer.</span>
+  </div>
 </div>
-
-###
-
-<div align="center" width="100%">
-  <img src="https://github-readme-stats.vercel.app/api?username=DiegoLibonati&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DiegoLibonati&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=DiegoLibonati&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=DiegoLibonati&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DiegoLibonati&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
-</div>
-
 
 ###
 
