@@ -562,6 +562,12 @@
     <span><a href="https://github.com/DiegoLibonati/TaskManager-Python-POO">TaskManager-Python-POO</a></span>
     <span>A task manager in Python with priorities and due dates.</span>
   </div>
+
+  <div>
+    <span>🛠️</span>
+    <span><a href="https://github.com/DiegoLibonati/Template-Flask-API">Template-Flask-API</a></span>
+    <span>Personal template for developing an API with Flask.</span>
+  </div>
   
   <div>
     <span>🛠️</span>
