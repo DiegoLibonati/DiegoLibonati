@@ -194,7 +194,7 @@
   <div>
     <span>🛠️</span>
     <span><a href="https://github.com/DiegoLibonati/Template-Vite-Vanilla-TS">Template-Vite-Vanilla-TS</a></span>
-    <span>A Personal template for Vite Vanilla TypeScript projects.</span>
+    <span>Personal template for Vite Vanilla TypeScript projects.</span>
   </div>
 </div>
 
