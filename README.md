@@ -179,6 +179,28 @@
 ###
 
 <div width="100%">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=soft&height=100&section=header&reversal=false&text=Templates&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=gruvbox_light"  />
+</div>
+
+###
+
+<div width="100%">
+  <div>
+    <span>🛠️</span>
+    <span><a href="https://github.com/DiegoLibonati/Template-Flask-Mongo-API">Template-Flask-Mongo-API</a></span>
+    <span>Personal template for developing an API with Flask and MongoDB.</span>
+  </div>
+  
+  <div>
+    <span>🛠️</span>
+    <span><a href="https://github.com/DiegoLibonati/Template-Vite-Vanilla-TS">Template-Vite-Vanilla-TS</a></span>
+    <span>A personal template for Vite Vanilla TypeScript projects.</span>
+  </div>
+</div>
+
+###
+
+<div width="100%">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=soft&height=100&section=header&reversal=false&text=Projects&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=gruvbox_light"  />
 </div>
 
@@ -561,18 +583,6 @@
     <span>✅</span>
     <span><a href="https://github.com/DiegoLibonati/TaskManager-Python-POO">TaskManager-Python-POO</a></span>
     <span>A task manager in Python with priorities and due dates.</span>
-  </div>
-
-  <div>
-    <span>🛠️</span>
-    <span><a href="https://github.com/DiegoLibonati/Template-Flask-Mongo-API">Template-Flask-Mongo-API</a></span>
-    <span>Personal template for developing an API with Flask and MongoDB.</span>
-  </div>
-  
-  <div>
-    <span>🛠️</span>
-    <span><a href="https://github.com/DiegoLibonati/Template-Vite-Vanilla-TS">Template-Vite-Vanilla-TS</a></span>
-    <span>A personal template for Vite Vanilla TypeScript projects.</span>
   </div>
   
   <div>
