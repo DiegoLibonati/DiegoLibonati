@@ -196,6 +196,12 @@
     <span><a href="https://github.com/DiegoLibonati/Template-Vite-Vanilla-TS">Template-Vite-Vanilla-TS</a></span>
     <span>Personal template for Vite Vanilla TypeScript projects.</span>
   </div>
+  
+  <div>
+    <span>🛠️</span>
+    <span><a href="https://github.com/DiegoLibonati/Template-Tkinter-Program">Template-Tkinter-Program</a></span>
+    <span>Personal template for developing a desktop application with a graphical interface using Tkinter and Python.</span>
+  </div>
 </div>
 
 ###
