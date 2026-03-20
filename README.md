@@ -413,7 +413,7 @@
   
   <div>
     <span>📖</span>
-    <span><a href="https://github.com/DiegoLibonati/Library-Python-POO">Library-Python-POO</a></span>
+    <span><a href="https://github.com/DiegoLibonati/Bookstore-Library-Python">Bookstore-Library-Python</a></span>
     <span>A library management system in Python using OOP principles.</span>
   </div>
   
