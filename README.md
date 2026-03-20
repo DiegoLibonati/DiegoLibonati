@@ -242,6 +242,12 @@
     <span><a href="https://github.com/DiegoLibonati/Birthday-React">Birthday-React</a></span>
     <span>A React app to display and manage birthday reminders.</span>
   </div>
+
+  <div>
+    <span>📖</span>
+    <span><a href="https://github.com/DiegoLibonati/Bookstore-Library-Python">Bookstore-Library-Python</a></span>
+    <span>A library management system in Python using OOP principles.</span>
+  </div>
   
   <div>
     <span>📚</span>
@@ -409,12 +415,6 @@
     <span>🔄</span>
     <span><a href="https://github.com/DiegoLibonati/JSON-Transformer">JSON-Transformer</a></span>
     <span>A tool to automate JSON file creation and translation.</span>
-  </div>
-  
-  <div>
-    <span>📖</span>
-    <span><a href="https://github.com/DiegoLibonati/Bookstore-Library-Python">Bookstore-Library-Python</a></span>
-    <span>A library management system in Python using OOP principles.</span>
   </div>
   
   <div>
