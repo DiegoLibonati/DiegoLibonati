@@ -208,6 +208,12 @@
     <span><a href="https://github.com/DiegoLibonati/Template-Library-Python">Template-Library-Python</a></span>
     <span>Personal template for developing an library with python.</span>
   </div>
+
+  <div>
+    <span>🛠️</span>
+    <span><a href="https://github.com/DiegoLibonati/Template-Pygame">Template-Pygame</a></span>
+    <span>Personal template for creating games with PyGame.</span>
+  </div>
 </div>
 
 ###
