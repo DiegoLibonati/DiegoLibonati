@@ -196,6 +196,12 @@
     <span><a href="https://github.com/DiegoLibonati/Template-Vite-Vanilla-TS">Template-Vite-Vanilla-TS</a></span>
     <span>Personal template for Vite Vanilla TypeScript projects.</span>
   </div>
+
+  <div>
+    <span>🛠️</span>
+    <span><a href="https://github.com/DiegoLibonati/Template-Vite-React-TS">Template-Vite-React-TS</a></span>
+    <span>Personal template for Vite React TypeScript projects.</span>
+  </div>
   
   <div>
     <span>🛠️</span>
