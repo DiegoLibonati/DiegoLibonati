@@ -217,6 +217,12 @@
 
   <div>
     <span>🛠️</span>
+    <span><a href="https://github.com/DiegoLibonati/Template-VSCode-Extension">Template-VSCode-Extension</a></span>
+    <span>Personal template for creating VSCode Extensions.</span>
+  </div>
+  
+  <div>
+    <span>🛠️</span>
     <span><a href="https://github.com/DiegoLibonati/Template-Pygame">Template-Pygame</a></span>
     <span>Personal template for creating games with PyGame.</span>
   </div>
