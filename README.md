@@ -205,7 +205,7 @@
   
   <div>
     <span>🛠️</span>
-    <span><a href="https://github.com/DiegoLibonati/Template-Tkinter-Program">Template-Tkinter-Program</a></span>
+    <span><a href="https://github.com/DiegoLibonati/tkinter-boilerplate">Tkinter Boilerplate</a></span>
     <span>Personal template for developing a desktop application with a graphical interface using Tkinter and Python.</span>
   </div>
 
