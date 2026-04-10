@@ -575,7 +575,7 @@
   
   <div>
     <span>✏️</span>
-    <span><a href="https://github.com/DiegoLibonati/Spelling-Checker-Program">Spelling-Checker-Program</a></span>
+    <span><a href="https://github.com/DiegoLibonati/spell-checker">Spell Checker</a></span>
     <span>A Python program to correct and predict misspelled words.</span>
   </div>
   
