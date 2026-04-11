@@ -251,7 +251,7 @@
   
   <div>
     <span>🎂</span>
-    <span><a href="https://github.com/DiegoLibonati/Age-Calculator-Program">Age-Calculator-Program</a></span>
+    <span><a href="https://github.com/DiegoLibonati/age-calculator">Age Calculator</a></span>
     <span>A Python program to calculate your exact age in years, months and days.</span>
   </div>
   
