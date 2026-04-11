@@ -569,7 +569,7 @@
   
   <div>
     <span>🗣️</span>
-    <span><a href="https://github.com/DiegoLibonati/text-to-speech">Text To Speech</a></span>
+    <span><a href="https://github.com/DiegoLibonati/oratio">Oratio</a></span>
     <span>A Python text-to-speech program with language selection.</span>
   </div>
   
