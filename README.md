@@ -659,7 +659,7 @@
   
   <div>
     <span>☁️</span>
-    <span><a href="https://github.com/DiegoLibonati/tkinter-weather-app">Tkinter Weather App</a></span>
+    <span><a href="https://github.com/DiegoLibonati/nimbus">Nimbus</a></span>
     <span>A Python weather checker with Tkinter GUI.</span>
   </div>
   
