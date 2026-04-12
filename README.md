@@ -527,7 +527,7 @@
   
   <div>
     <span>🎙️</span>
-    <span><a href="https://github.com/DiegoLibonati/Record-Audio-Program">Record-Audio-Program</a></span>
+    <span><a href="https://github.com/DiegoLibonati/vaultone">vaultone</a></span>
     <span>A Python program to record audio from microphone.</span>
   </div>
   
