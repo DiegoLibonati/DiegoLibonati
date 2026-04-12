@@ -359,7 +359,7 @@
   
   <div>
     <span>🔐</span>
-    <span><a href="https://github.com/DiegoLibonati/file-encryption-tool">File Encryption Tool</a></span>
+    <span><a href="https://github.com/DiegoLibonati/lockscript">Lockscript</a></span>
     <span>A Python program to encrypt and decrypt text messages.</span>
   </div>
   
