@@ -371,7 +371,7 @@
   
   <div>
     <span>📁</span>
-    <span><a href="https://github.com/DiegoLibonati/File-Organizer-Program">File-Organizer-Program</a></span>
+    <span><a href="https://github.com/DiegoLibonati/sortex">Sortex</a></span>
     <span>A Python program to automatically organize files by extension.</span>
   </div>
   
