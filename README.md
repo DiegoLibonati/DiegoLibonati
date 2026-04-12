@@ -251,7 +251,7 @@
   
   <div>
     <span>🎂</span>
-    <span><a href="https://github.com/DiegoLibonati/age-calculator">Age Calculator</a></span>
+    <span><a href="https://github.com/DiegoLibonati/age-snap">AgeSnap</a></span>
     <span>A Python program to calculate your exact age in years, months and days.</span>
   </div>
   
@@ -575,7 +575,7 @@
   
   <div>
     <span>✏️</span>
-    <span><a href="https://github.com/DiegoLibonati/word-sentry">Word Sentry</a></span>
+    <span><a href="https://github.com/DiegoLibonati/word-sentry">WordSentry</a></span>
     <span>A Python program to correct and predict misspelled words.</span>
   </div>
   
