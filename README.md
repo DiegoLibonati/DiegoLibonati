@@ -611,7 +611,7 @@
   
   <div>
     <span>✅</span>
-    <span><a href="https://github.com/DiegoLibonati/TaskManager-Library-Python">TaskManager-Library-Python</a></span>
+    <span><a href="https://github.com/DiegoLibonati/propel">Propel</a></span>
     <span>A task manager in Python with priorities and due dates.</span>
   </div>
   
