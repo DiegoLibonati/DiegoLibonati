@@ -211,7 +211,7 @@
 
   <div>
     <span>🛠️</span>
-    <span><a href="https://github.com/DiegoLibonati/Template-Library-Python">Template-Library-Python</a></span>
+    <span><a href="https://github.com/DiegoLibonati/python-library-boilerplate">PythonLibraryBoilerplate</a></span>
     <span>Personal template for developing an library with python.</span>
   </div>
 
