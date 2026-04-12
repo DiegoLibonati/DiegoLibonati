@@ -473,7 +473,7 @@
   
   <div>
     <span>📓</span>
-    <span><a href="https://github.com/DiegoLibonati/notepad">Notepad</a></span>
+    <span><a href="https://github.com/DiegoLibonati/folia">Folia</a></span>
     <span>A Python notepad with file operations and font customization.</span>
   </div>
   
