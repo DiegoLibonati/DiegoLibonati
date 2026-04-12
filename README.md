@@ -179,7 +179,7 @@
 ###
 
 <div width="100%">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=soft&height=100&section=header&reversal=false&text=Templates&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=gruvbox_light"  />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=soft&height=100&section=header&reversal=false&text=Boilerplates&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=gruvbox_light"  />
 </div>
 
 ###
