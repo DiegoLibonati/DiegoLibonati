@@ -419,7 +419,7 @@
   
   <div>
     <span>⚖️</span>
-    <span><a href="https://github.com/DiegoLibonati/bmi-calculator">BMI Calculator</a></span>
+    <span><a href="https://github.com/DiegoLibonati/body-markr">BodyMark</a></span>
     <span>A Python program to calculate Body Mass Index (BMI).</span>
   </div>
   
