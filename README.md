@@ -223,7 +223,7 @@
   
   <div>
     <span>🛠️</span>
-    <span><a href="https://github.com/DiegoLibonati/Template-Pygame">Template-Pygame</a></span>
+    <span><a href="https://github.com/DiegoLibonati/pygame-boilerplate">PygameBoilerplate</a></span>
     <span>Personal template for creating games with PyGame.</span>
   </div>
 </div>
