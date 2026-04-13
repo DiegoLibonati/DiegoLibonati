@@ -563,7 +563,7 @@
   
   <div>
     <span>🚀</span>
-    <span><a href="https://github.com/DiegoLibonati/Space-Runner-Game-Program">Space-Runner-Game-Program</a></span>
+    <span><a href="https://github.com/DiegoLibonati/starward-run">StarwardRun</a></span>
     <span>A PyGame space runner with monsters and power-ups.</span>
   </div>
   
