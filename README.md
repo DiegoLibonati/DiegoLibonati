@@ -287,7 +287,7 @@
   
   <div>
     <span>🔢</span>
-    <span><a href="https://github.com/DiegoLibonati/Calculator-Page">Calculator-Page</a></span>
+    <span><a href="https://github.com/DiegoLibonati/calcify">Calcify</a></span>
     <span>A web calculator with basic arithmetic operations.</span>
   </div>
   
