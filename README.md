@@ -443,7 +443,7 @@
   
   <div>
     <span>📝</span>
-    <span><a href="https://github.com/DiegoLibonati/Lorem-Ipsum-Page">Lorem-Ipsum-Page</a></span>
+    <span><a href="https://github.com/DiegoLibonati/paragrafts">Paragrafts</a></span>
     <span>A Lorem Ipsum text generator based on paragraph count.</span>
   </div>
   
