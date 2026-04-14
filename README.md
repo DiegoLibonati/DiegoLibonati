@@ -599,7 +599,7 @@
   
   <div>
     <span>📋</span>
-    <span><a href="https://github.com/DiegoLibonati/Tabs-Page">Tabs-Page</a></span>
+    <span><a href="https://github.com/DiegoLibonati/tabula">Tabula</a></span>
     <span>A tabs component to switch between content sections.</span>
   </div>
   
