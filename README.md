@@ -275,7 +275,7 @@
   
   <div>
     <span>🎮</span>
-    <span><a href="https://github.com/DiegoLibonati/Breakout-Game">Breakout-Game</a></span>
+    <span><a href="https://github.com/DiegoLibonati/brick-pulse">BrickPulse</a></span>
     <span>The classic Breakout arcade game built with TypeScript and Canvas.</span>
   </div>
   
