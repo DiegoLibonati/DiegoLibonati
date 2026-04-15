@@ -317,7 +317,7 @@
   
   <div>
     <span>🔢</span>
-    <span><a href="https://github.com/DiegoLibonati/Counter-Page">Counter-Page</a></span>
+    <span><a href="https://github.com/DiegoLibonati/tally">Tally</a></span>
     <span>A simple counter with increment, decrement and reset functionality.</span>
   </div>
   
