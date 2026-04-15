@@ -455,7 +455,7 @@
   
   <div>
     <span>🧠</span>
-    <span><a href="https://github.com/DiegoLibonati/Memory-Game">Memory-Game</a></span>
+    <span><a href="https://github.com/DiegoLibonati/pair-dash">PairDash</a></span>
     <span>The classic memory card matching game.</span>
   </div>
   
