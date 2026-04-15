@@ -545,7 +545,7 @@
   
   <div>
     <span>✊</span>
-    <span><a href="https://github.com/DiegoLibonati/Rock-Paper-Scissors-Game">Rock-Paper-Scissors-Game</a></span>
+    <span><a href="https://github.com/DiegoLibonati/grip-duel">GripDuel</a></span>
     <span>The classic rock paper scissors game against AI.</span>
   </div>
   
