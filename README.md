@@ -461,7 +461,7 @@
   
   <div>
     <span>🍔</span>
-    <span><a href="https://github.com/DiegoLibonati/Menu-Page">Menu-Page</a></span>
+    <span><a href="https://github.com/DiegoLibonati/meal-deck">MealDeck</a></span>
     <span>A restaurant menu page with category filtering.</span>
   </div>
   
