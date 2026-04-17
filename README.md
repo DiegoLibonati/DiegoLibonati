@@ -347,7 +347,7 @@
   
   <div>
     <span>🎨</span>
-    <span><a href="https://github.com/DiegoLibonati/Drawing-Page">Drawing-Page</a></span>
+    <span><a href="https://github.com/DiegoLibonati/inklet">Inklet</a></span>
     <span>A web drawing application with canvas and various brush tools.</span>
   </div>
   
