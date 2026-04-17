@@ -533,7 +533,7 @@
   
   <div>
     <span>⭐</span>
-    <span><a href="https://github.com/DiegoLibonati/Reviews-Page">Reviews-Page</a></span>
+    <span><a href="https://github.com/DiegoLibonati/glimpsed">Glimpsed</a></span>
     <span>A reviews slider with navigation and random review feature.</span>
   </div>
   
