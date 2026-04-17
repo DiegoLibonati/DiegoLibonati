@@ -311,7 +311,7 @@
   
   <div>
     <span>⏰</span>
-    <span><a href="https://github.com/DiegoLibonati/Countdown-Page">Countdown-Page</a></span>
+    <span><a href="https://github.com/DiegoLibonati/zero-hour">ZeroHour</a></span>
     <span>A countdown timer to track time until a specific date.</span>
   </div>
   
