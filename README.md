@@ -365,7 +365,7 @@
   
   <div>
     <span>🃏</span>
-    <span><a href="https://github.com/DiegoLibonati/Expanding-Cards">Expanding-Cards</a></span>
+    <span><a href="https://github.com/DiegoLibonati/bloomcard">Bloomcard</a></span>
     <span>Interactive expanding cards with smooth animations on click.</span>
   </div>
   
