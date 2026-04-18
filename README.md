@@ -653,7 +653,7 @@
   
   <div>
     <span>🌤️</span>
-    <span><a href="https://github.com/DiegoLibonati/Weather-Page">Weather-Page</a></span>
+    <span><a href="https://github.com/DiegoLibonati/zephyr">Zephyr</a></span>
     <span>A weather app using the Weather API.</span>
   </div>
   
