@@ -485,7 +485,7 @@
   
   <div>
     <span>🗒️</span>
-    <span><a href="https://github.com/DiegoLibonati/Notes-Page">Notes-Page</a></span>
+    <span><a href="https://github.com/DiegoLibonati/scribbit">Scribbit</a></span>
     <span>A web notes application with create, edit and delete features.</span>
   </div>
   
