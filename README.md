@@ -401,7 +401,7 @@
   
   <div>
     <span>🛒</span>
-    <span><a href="https://github.com/DiegoLibonati/Grocery-Bud-Page">Grocery-Bud-Page</a></span>
+    <span><a href="https://github.com/DiegoLibonati/freshlist">Freshlist</a></span>
     <span>A grocery list application with local storage persistence.</span>
   </div>
   
