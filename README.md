@@ -623,7 +623,7 @@
   
   <div>
     <span>📝</span>
-    <span><a href="https://github.com/DiegoLibonati/ToDo-Page">ToDo-Page</a></span>
+    <span><a href="https://github.com/DiegoLibonati/taskrift">Taskrift</a></span>
     <span>A ToDo app with drag and drop functionality.</span>
   </div>
   
