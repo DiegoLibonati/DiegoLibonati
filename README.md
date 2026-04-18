@@ -497,7 +497,7 @@
   
   <div>
     <span>🔒</span>
-    <span><a href="https://github.com/DiegoLibonati/Password-Generator">Password-Generator</a></span>
+    <span><a href="https://github.com/DiegoLibonati/passcraft">Passcraft</a></span>
     <span>A random password generator with customizable options.</span>
   </div>
   
