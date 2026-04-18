@@ -521,7 +521,7 @@
   
   <div>
     <span>🍳</span>
-    <span><a href="https://github.com/DiegoLibonati/RecipeIG">RecipeIG</a></span>
+    <span><a href="https://github.com/DiegoLibonati/recipic">Recipic</a></span>
     <span>A recipe app with Instagram-style stories using TheMealDB API.</span>
   </div>
   
