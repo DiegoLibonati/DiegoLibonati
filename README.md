@@ -395,7 +395,7 @@
   
   <div>
     <span>👥</span>
-    <span><a href="https://github.com/DiegoLibonati/Github-Profiles">Github-Profiles</a></span>
+    <span><a href="https://github.com/DiegoLibonati/foliohub">Foliohub</a></span>
     <span>A web app to search and display GitHub user profiles.</span>
   </div>
   
