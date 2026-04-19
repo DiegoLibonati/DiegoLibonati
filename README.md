@@ -199,7 +199,7 @@
 
   <div>
     <span>🛠️</span>
-    <span><a href="https://github.com/DiegoLibonati/Template-Vite-React-TS">Template-Vite-React-TS</a></span>
+    <span><a href="https://github.com/DiegoLibonati/react-ts-vite-boilerplate">ReactTsViteBoilerplate</a></span>
     <span>Personal template for Vite React TypeScript projects.</span>
   </div>
   
