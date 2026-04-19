@@ -581,7 +581,7 @@
   
   <div>
     <span>📦</span>
-    <span><a href="https://github.com/DiegoLibonati/Stack-Game-3D">Stack-Game-3D</a></span>
+    <span><a href="https://github.com/DiegoLibonati/tower-drop">TowerDrop</a></span>
     <span>A 3D block stacking game built with Three.js.</span>
   </div>
   
