@@ -239,7 +239,7 @@
 <div width="100%">
   <div>
     <span>🎮</span>
-    <span><a href="https://github.com/DiegoLibonati/3D-Object-Viewer">3D-Object-Viewer</a></span>
+    <span><a href="https://github.com/DiegoLibonati/orbita">Orbita</a></span>
     <span>A 3D object viewer built with Three.js to visualize and interact with 3D models.</span>
   </div>
   
