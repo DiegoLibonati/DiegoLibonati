@@ -193,7 +193,7 @@
   
   <div>
     <span>🛠️</span>
-    <span><a href="https://github.com/DiegoLibonati/typescript-spa-boilerplate">TypescriptSpaBoilerplate</a></span>
+    <span><a href="https://github.com/DiegoLibonati/typescript-vite-boilerplate">TypescriptViteBoilerplate</a></span>
     <span>Personal template for Vite Vanilla TypeScript projects.</span>
   </div>
 
