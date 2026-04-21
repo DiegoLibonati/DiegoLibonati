@@ -245,7 +245,7 @@
   
   <div>
     <span>🎵</span>
-    <span><a href="https://github.com/DiegoLibonati/Accordion-React">Accordion-React</a></span>
+    <span><a href="https://github.com/DiegoLibonati/revealr">Revealr</a></span>
     <span>An accordion component built with React to show/hide content sections.</span>
   </div>
   
