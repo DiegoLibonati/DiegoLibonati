@@ -557,7 +557,7 @@
   
   <div>
     <span>🎠</span>
-    <span><a href="https://github.com/DiegoLibonati/Slider-React">Slider-React</a></span>
+    <span><a href="https://github.com/DiegoLibonati/quoteflo">Quoteflo</a></span>
     <span>An infinite slider component built with React.</span>
   </div>
   
