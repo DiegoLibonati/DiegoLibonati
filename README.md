@@ -467,7 +467,7 @@
   
   <div>
     <span>🍕</span>
-    <span><a href="https://github.com/DiegoLibonati/Menu-React">Menu-React</a></span>
+    <span><a href="https://github.com/DiegoLibonati/nibble">Nibble</a></span>
     <span>A restaurant menu application built with React.</span>
   </div>
   
