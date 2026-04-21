@@ -323,7 +323,7 @@
   
   <div>
     <span>➕</span>
-    <span><a href="https://github.com/DiegoLibonati/Counter-React">Counter-React</a></span>
+    <span><a href="https://github.com/DiegoLibonati/countly">Countly</a></span>
     <span>A counter application built with React hooks.</span>
   </div>
   
