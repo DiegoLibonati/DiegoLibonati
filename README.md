@@ -449,7 +449,7 @@
   
   <div>
     <span>📄</span>
-    <span><a href="https://github.com/DiegoLibonati/Lorem-Ipsum-React">Lorem-Ipsum-React</a></span>
+    <span><a href="https://github.com/DiegoLibonati/dummycraft">Dummycraft</a></span>
     <span>A Lorem Ipsum generator built with React.</span>
   </div>
   
