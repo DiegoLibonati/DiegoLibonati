@@ -539,7 +539,7 @@
   
   <div>
     <span>💬</span>
-    <span><a href="https://github.com/DiegoLibonati/Reviews-React">Reviews-React</a></span>
+    <span><a href="https://github.com/DiegoLibonati/ovation">Ovation</a></span>
     <span>A reviews section component built with React.</span>
   </div>
   
