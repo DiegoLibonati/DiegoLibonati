@@ -257,7 +257,7 @@
   
   <div>
     <span>🎉</span>
-    <span><a href="https://github.com/DiegoLibonati/Birthday-React">Birthday-React</a></span>
+    <span><a href="https://github.com/DiegoLibonati/todayborn">Todayborn</a></span>
     <span>A React app to display and manage birthday reminders.</span>
   </div>
 
