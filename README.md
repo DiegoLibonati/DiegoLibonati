@@ -305,7 +305,7 @@
   
   <div>
     <span>🌈</span>
-    <span><a href="https://github.com/DiegoLibonati/Color-Generator">Color-Generator</a></span>
+    <span><a href="https://github.com/DiegoLibonati/paletto">Paletto</a></span>
     <span>A color palette generator that creates shades and tints from any color.</span>
   </div>
   
