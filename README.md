@@ -413,7 +413,7 @@
   
   <div>
     <span>🦸</span>
-    <span><a href="https://github.com/DiegoLibonati/HeroesApp">HeroesApp</a></span>
+    <span><a href="https://github.com/DiegoLibonati/hero-dex">HeroDex</a></span>
     <span>A superhero search application using the Superhero API.</span>
   </div>
   
