@@ -293,7 +293,7 @@
   
   <div>
     <span>🛒</span>
-    <span><a href="https://github.com/DiegoLibonati/Cart-React">Cart-React</a></span>
+    <span><a href="https://github.com/DiegoLibonati/baggage">Baggage</a></span>
     <span>A shopping cart application built with React and Redux.</span>
   </div>
   
