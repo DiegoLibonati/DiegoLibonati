@@ -407,7 +407,7 @@
   
   <div>
     <span>🥬</span>
-    <span><a href="https://github.com/DiegoLibonati/Grocery-Bud-React">Grocery-Bud-React</a></span>
+    <span><a href="https://github.com/DiegoLibonati/haul">Haul</a></span>
     <span>A grocery list app built with React and local storage.</span>
   </div>
   
