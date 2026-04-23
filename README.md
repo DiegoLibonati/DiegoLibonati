@@ -575,7 +575,7 @@
   
   <div>
     <span>✏️</span>
-    <span><a href="https://github.com/DiegoLibonati/word-sentry">WordSentry</a></span>
+    <span><a href="https://github.com/DiegoLibonati/word-sentry">Word Sentry</a></span>
     <span>A Python program to correct and predict misspelled words.</span>
   </div>
   
