@@ -251,7 +251,7 @@
   
   <div>
     <span>🎂</span>
-    <span><a href="https://github.com/DiegoLibonati/age-snap">AgeSnap</a></span>
+    <span><a href="https://github.com/DiegoLibonati/age-snap">Age Snap</a></span>
     <span>A Python program to calculate your exact age in years, months and days.</span>
   </div>
   
