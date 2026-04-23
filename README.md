@@ -223,7 +223,7 @@
   
   <div>
     <span>🛠️</span>
-    <span><a href="https://github.com/DiegoLibonati/python-pygame-boilerplate">PythonPygameBoilerplate</a></span>
+    <span><a href="https://github.com/DiegoLibonati/python-pygame-boilerplate">Python Pygame Boilerplate</a></span>
     <span>Personal template for creating games with PyGame.</span>
   </div>
 </div>
@@ -563,7 +563,7 @@
   
   <div>
     <span>🚀</span>
-    <span><a href="https://github.com/DiegoLibonati/starward-run">StarwardRun</a></span>
+    <span><a href="https://github.com/DiegoLibonati/starward-run">Starward Run</a></span>
     <span>A PyGame space runner with monsters and power-ups.</span>
   </div>
   
