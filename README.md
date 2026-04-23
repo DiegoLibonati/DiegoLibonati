@@ -263,7 +263,7 @@
 
   <div>
     <span>📖</span>
-    <span><a href="https://github.com/DiegoLibonati/lend-book">LendBook</a></span>
+    <span><a href="https://github.com/DiegoLibonati/lend-book">Lend Book</a></span>
     <span>A library management system in Python using OOP principles.</span>
   </div>
   
