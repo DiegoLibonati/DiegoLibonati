@@ -593,7 +593,7 @@
   
   <div>
     <span>📑</span>
-    <span><a href="https://github.com/DiegoLibonati/Stripe-Menu-React">Stripe-Menu-React</a></span>
+    <span><a href="https://github.com/DiegoLibonati/stripe-nav">StripeNav</a></span>
     <span>A Stripe-style dropdown navigation menu in React.</span>
   </div>
   
