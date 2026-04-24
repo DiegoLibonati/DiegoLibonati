@@ -299,7 +299,7 @@
   
   <div>
     <span>🎨</span>
-    <span><a href="https://github.com/DiegoLibonati/color-flipper">ColorFlipper</a></span>
+    <span><a href="https://github.com/DiegoLibonati/color-flipper">Color Flipper</a></span>
     <span>A web app that generates random colors with a button click.</span>
   </div>
   
