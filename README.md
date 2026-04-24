@@ -193,7 +193,7 @@
   
   <div>
     <span>🛠️</span>
-    <span><a href="https://github.com/DiegoLibonati/typescript-vite-boilerplate">TypescriptViteBoilerplate</a></span>
+    <span><a href="https://github.com/DiegoLibonati/typescript-vite-boilerplate">Typescript Vite Boilerplate</a></span>
     <span>Personal template for Vite Vanilla TypeScript projects.</span>
   </div>
 
@@ -275,7 +275,7 @@
   
   <div>
     <span>🎮</span>
-    <span><a href="https://github.com/DiegoLibonati/brick-pulse">BrickPulse</a></span>
+    <span><a href="https://github.com/DiegoLibonati/brick-pulse">Brick Pulse</a></span>
     <span>The classic Breakout arcade game built with TypeScript and Canvas.</span>
   </div>
   
