@@ -665,7 +665,7 @@
   
   <div>
     <span>🐹</span>
-    <span><a href="https://github.com/DiegoLibonati/mole-rush">MoleRush</a></span>
+    <span><a href="https://github.com/DiegoLibonati/mole-rush">Mole Rush</a></span>
     <span>The classic Whac-A-Mole arcade game with 60 seconds timer.</span>
   </div>
 </div>
