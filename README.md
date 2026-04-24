@@ -551,7 +551,7 @@
   
   <div>
     <span>🔴</span>
-    <span><a href="https://github.com/DiegoLibonati/chroma-echo">ChromaEcho</a></span>
+    <span><a href="https://github.com/DiegoLibonati/chroma-echo">Chroma Echo</a></span>
     <span>The Simon Says memory game with multiple difficulty levels.</span>
   </div>
   
