@@ -605,7 +605,7 @@
   
   <div>
     <span>🗂️</span>
-    <span><a href="https://github.com/DiegoLibonati/work-folio">WorkFolio</a></span>
+    <span><a href="https://github.com/DiegoLibonati/work-folio">Work Folio</a></span>
     <span>A tabs component built with React.</span>
   </div>
   
