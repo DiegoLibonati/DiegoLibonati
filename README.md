@@ -617,7 +617,7 @@
   
   <div>
     <span>🍹</span>
-    <span><a href="https://github.com/DiegoLibonati/TheCocktailDB">TheCocktailDB</a></span>
+    <span><a href="https://github.com/DiegoLibonati/barlore">Barlore</a></span>
     <span>A cocktail search app using TheCocktailDB API.</span>
   </div>
   
