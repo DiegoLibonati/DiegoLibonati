@@ -389,7 +389,7 @@
   
   <div>
     <span>🎮</span>
-    <span><a href="https://github.com/DiegoLibonati/FreeToPlayGames">FreeToPlayGames</a></span>
+    <span><a href="https://github.com/DiegoLibonati/free-games">Free Games</a></span>
     <span>A web app to browse and search free-to-play games.</span>
   </div>
   
