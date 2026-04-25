@@ -641,7 +641,7 @@
   
   <div>
     <span>✈️</span>
-    <span><a href="https://github.com/DiegoLibonati/ToursApp">ToursApp</a></span>
+    <span><a href="https://github.com/DiegoLibonati/voyagr">Voyagr</a></span>
     <span>A tour listing app with show/hide info and delete features.</span>
   </div>
   
