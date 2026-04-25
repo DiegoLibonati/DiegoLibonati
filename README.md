@@ -629,7 +629,7 @@
   
   <div>
     <span>☑️</span>
-    <span><a href="https://github.com/DiegoLibonati/ToDo-React-Redux">ToDo-React-Redux</a></span>
+    <span><a href="https://github.com/DiegoLibonati/slicedo">Slicedo</a></span>
     <span>A ToDo app with categories using React and Redux.</span>
   </div>
   
