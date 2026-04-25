@@ -335,7 +335,7 @@
   
   <div>
     <span>🎬</span>
-    <span><a href="https://github.com/DiegoLibonati/Die-GifsApp">Die-GifsApp</a></span>
+    <span><a href="https://github.com/DiegoLibonati/gif-dive">Gif Dive</a></span>
     <span>A GIF search application using the Giphy API.</span>
   </div>
   
