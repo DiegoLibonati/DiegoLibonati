@@ -269,7 +269,7 @@
   
   <div>
     <span>📚</span>
-    <span><a href="https://github.com/DiegoLibonati/Bookstore-React-Flask">Bookstore-React-Flask</a></span>
+    <span><a href="https://github.com/DiegoLibonati/virbooks">Virbooks</a></span>
     <span>A full-stack bookstore application with React frontend and Flask backend.</span>
   </div>
   
