@@ -217,7 +217,7 @@
 
   <div>
     <span>🛠️</span>
-    <span><a href="https://github.com/DiegoLibonati/Template-VSCode-Extension">Template-VSCode-Extension</a></span>
+    <span><a href="https://github.com/DiegoLibonati/vscode-extension-ts-boilerplate">VSCode Extension Ts Boilerplate</a></span>
     <span>Personal template for creating VSCode Extensions.</span>
   </div>
   
