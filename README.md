@@ -187,7 +187,7 @@
 <div width="100%">
   <div>
     <span>🛠️</span>
-    <span><a href="https://github.com/DiegoLibonati/Template-Flask-Mongo-API">Template-Flask-Mongo-API</a></span>
+    <span><a href="https://github.com/DiegoLibonati/python-flask-mongo-api-boilerplate">Python Flask Mongo Api Boilerplate</a></span>
     <span>Personal template for developing an API with Flask and MongoDB.</span>
   </div>
   
