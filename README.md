@@ -383,7 +383,7 @@
   
   <div>
     <span>🚩</span>
-    <span><a href="https://github.com/DiegoLibonati/FlagsGame">FlagsGame</a></span>
+    <span><a href="https://github.com/DiegoLibonati/flag-oracle">Flag Oracle</a></span>
     <span>A quiz game to guess countries by their flags.</span>
   </div>
   
