@@ -329,7 +329,7 @@
   
   <div>
     <span>✂️</span>
-    <span><a href="https://github.com/DiegoLibonati/CutTube">CutTube</a></span>
+    <span><a href="https://github.com/DiegoLibonati/cut-tube">Cut Tube</a></span>
     <span>A web app to download and cut YouTube videos.</span>
   </div>
   
