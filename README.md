@@ -653,7 +653,7 @@
   
   <div>
     <span>⌨️</span>
-    <span><a href="https://github.com/DiegoLibonati/UseKeyBoard">UseKeyBoard</a></span>
+    <span><a href="https://github.com/DiegoLibonati/use-keyboard">UseKeyboard</a></span>
     <span>A React library hook to execute code based on key presses.</span>
   </div>
   
