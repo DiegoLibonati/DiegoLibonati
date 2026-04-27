@@ -217,6 +217,12 @@
 
   <div>
     <span>🛠️</span>
+    <span><a href="https://github.com/DiegoLibonati/react-ts-library-vite-boilerplate">React Ts Library Vite Boilerplate</a></span>
+    <span>Personal template for developing an library with react.</span>
+  </div>
+
+  <div>
+    <span>🛠️</span>
     <span><a href="https://github.com/DiegoLibonati/vscode-extension-ts-boilerplate">VSCode Extension Ts Boilerplate</a></span>
     <span>Personal template for creating VSCode Extensions.</span>
   </div>
