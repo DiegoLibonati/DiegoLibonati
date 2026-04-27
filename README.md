@@ -635,7 +635,7 @@
   
   <div>
     <span>🔍</span>
-    <span><a href="https://github.com/DiegoLibonati/TokenSentry">TokenSentry</a></span>
+    <span><a href="https://github.com/DiegoLibonati/token-sentry">Token Sentry</a></span>
     <span>A VSCode extension to detect sensitive data before commits.</span>
   </div>
   
