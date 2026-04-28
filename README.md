@@ -202,6 +202,12 @@
     <span><a href="https://github.com/DiegoLibonati/react-ts-vite-boilerplate">React Ts Vite Boilerplate</a></span>
     <span>Personal template for Vite React TypeScript projects.</span>
   </div>
+
+  <div>
+    <span>🛠️</span>
+    <span><a href="https://github.com/DiegoLibonati/react-native-ts-expo-boilerplate">React Native Ts Expo Boilerplate</a></span>
+    <span>Personal template for Expo React Native TypeScript projects.</span>
+  </div>
   
   <div>
     <span>🛠️</span>
