@@ -491,7 +491,7 @@
   
   <div>
     <span>📱</span>
-    <span><a href="https://github.com/DiegoLibonati/Notes-Native">Notes-Native</a></span>
+    <span><a href="https://github.com/DiegoLibonati/scribo">Scribo</a></span>
     <span>A notes app built with React Native and Expo.</span>
   </div>
   
