@@ -293,7 +293,7 @@
   
   <div>
     <span>📱</span>
-    <span><a href="https://github.com/DiegoLibonati/Calculator-Native">Calculator-Native</a></span>
+    <span><a href="https://github.com/DiegoLibonati/numra">Numra</a></span>
     <span>A calculator mobile app built with React Native and Expo.</span>
   </div>
   
