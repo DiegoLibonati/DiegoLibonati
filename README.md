@@ -599,7 +599,7 @@
   
   <div>
     <span>⏱️</span>
-    <span><a href="https://github.com/DiegoLibonati/Stopwatch-Native">Stopwatch-Native</a></span>
+    <span><a href="https://github.com/DiegoLibonati/lapstr">Lapstr</a></span>
     <span>A stopwatch app with lap tracking and customizable skins.</span>
   </div>
   
