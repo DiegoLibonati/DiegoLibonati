@@ -193,7 +193,7 @@
   
   <div>
     <span>🛠️</span>
-    <span><a href="https://github.com/DiegoLibonati/node-express-sql-boilerplate">Node Express SQL Boilerplate</a></span>
+    <span><a href="https://github.com/DiegoLibonati/node-ts-express-sql-api-boilerplate">Node Ts Express SQL Api Boilerplate</a></span>
     <span>Personal template for developing an API with Express and SQL.</span>
   </div>
   
