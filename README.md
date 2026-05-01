@@ -193,6 +193,12 @@
   
   <div>
     <span>🛠️</span>
+    <span><a href="https://github.com/DiegoLibonati/node-express-sql-boilerplate">Node Express SQL Boilerplate</a></span>
+    <span>Personal template for developing an API with Express and SQL.</span>
+  </div>
+  
+  <div>
+    <span>🛠️</span>
     <span><a href="https://github.com/DiegoLibonati/typescript-vite-boilerplate">Typescript Vite Boilerplate</a></span>
     <span>Personal template for Vite Vanilla TypeScript projects.</span>
   </div>
