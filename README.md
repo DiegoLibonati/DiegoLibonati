@@ -449,7 +449,7 @@
   
   <div>
     <span>📸</span>
-    <span><a href="https://github.com/DiegoLibonati/Instagram-API">Instagram-API</a></span>
+    <span><a href="https://github.com/DiegoLibonati/instabridge">Instabridge</a></span>
     <span>An API wrapper to access Instagram Graph API efficiently.</span>
   </div>
   
