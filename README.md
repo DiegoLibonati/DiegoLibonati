@@ -196,6 +196,12 @@
     <span><a href="https://github.com/DiegoLibonati/node-ts-express-sql-api-boilerplate">Node Ts Express SQL Api Boilerplate</a></span>
     <span>Personal template for developing an API with Express and SQL.</span>
   </div>
+
+  <div>
+    <span>🛠️</span>
+    <span><a href="https://github.com/DiegoLibonati/next-16-ts-boilerplate">NextJS 16 Ts Boilerplate</a></span>
+    <span>Personal template for developing an APP with NextJS 16 Typescript</span>
+  </div>
   
   <div>
     <span>🛠️</span>
