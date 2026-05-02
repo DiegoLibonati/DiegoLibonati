@@ -190,6 +190,12 @@
     <span><a href="https://github.com/DiegoLibonati/python-flask-mongo-api-boilerplate">Python Flask Mongo Api Boilerplate</a></span>
     <span>Personal template for developing an API with Flask and MongoDB.</span>
   </div>
+
+  <div>
+    <span>🛠️</span>
+    <span><a href="https://github.com/DiegoLibonati/python-flask-api-boilerplate">Python Flask Api Boilerplate</a></span>
+    <span>Personal template for developing an API with Flask.</span>
+  </div>
   
   <div>
     <span>🛠️</span>
