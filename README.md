@@ -205,6 +205,12 @@
 
   <div>
     <span>🛠️</span>
+    <span><a href="https://github.com/DiegoLibonati/node-ts-express-api-boilerplate">Node Ts Express Api Boilerplate</a></span>
+    <span>Personal template for developing an API with Express.</span>
+  </div>
+
+  <div>
+    <span>🛠️</span>
     <span><a href="https://github.com/DiegoLibonati/next-16-ts-boilerplate">NextJS 16 Ts Boilerplate</a></span>
     <span>Personal template for developing an APP with NextJS 16 Typescript</span>
   </div>
