@@ -545,7 +545,7 @@
   
   <div>
     <span>📺</span>
-    <span><a href="https://github.com/DiegoLibonati/PerfectTV">PerfectTV</a></span>
+    <span><a href="https://github.com/DiegoLibonati/broadbase">Broadbase</a></span>
     <span>A TV channel viewer with GraphQL server and CRUD operations.</span>
   </div>
   
