@@ -419,7 +419,7 @@
   
   <div>
     <span>📂</span>
-    <span><a href="https://github.com/DiegoLibonati/FileManager-NextJS">FileManager-NextJS</a></span>
+    <span><a href="https://github.com/DiegoLibonati/nexdrive">Nexdrive</a></span>
     <span>A file manager web application built with Next.js and Firebase.</span>
   </div>
   
