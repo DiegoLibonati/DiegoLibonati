@@ -196,6 +196,12 @@
     <span><a href="https://github.com/DiegoLibonati/python-flask-api-boilerplate">Python Flask Api Boilerplate</a></span>
     <span>Personal template for developing an API with Flask.</span>
   </div>
+
+  <div>
+    <span>🛠️</span>
+    <span><a href="https://github.com/DiegoLibonati/python-flask-ts-sql-web-boilerplate">Python Flask Ts Sql Web Boilerplate</a></span>
+    <span>Personal template for developing an Flask MVC with SQL App.</span>
+  </div>
   
   <div>
     <span>🛠️</span>
