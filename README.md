@@ -539,7 +539,7 @@
   
   <div>
     <span>📝</span>
-    <span><a href="https://github.com/DiegoLibonati/Noti-Flask">Noti-Flask</a></span>
+    <span><a href="https://github.com/DiegoLibonati/noti">Noti</a></span>
     <span>A notes web app with user authentication using Flask.</span>
   </div>
   
