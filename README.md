@@ -220,6 +220,12 @@
     <span><a href="https://github.com/DiegoLibonati/node-ts-express-graphql-boilerplate">Node Ts Express GraphQL Boilerplate</a></span>
     <span>Personal template for developing an GraphQl server with Express.</span>
   </div>
+  
+  <div>
+    <span>🛠️</span>
+    <span><a href="https://github.com/DiegoLibonati/node-ts-express-socket-boilerplate">Node Ts Express Socket Boilerplate</a></span>
+    <span>Personal template for developing an Socket server with Express.</span>
+  </div>
 
   <div>
     <span>🛠️</span>
