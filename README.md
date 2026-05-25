@@ -569,7 +569,7 @@
   
   <div>
     <span>🎨</span>
-    <span><a href="https://github.com/DiegoLibonati/Pinturillo-Vue-NodeJS">Pinturillo-Vue-NodeJS</a></span>
+    <span><a href="https://github.com/DiegoLibonati/drawlingo">Drawlingo</a></span>
     <span>A multiplayer drawing and guessing game with Vue and Socket.io.</span>
   </div>
   
