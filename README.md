@@ -241,6 +241,12 @@
 
   <div>
     <span>🛠️</span>
+    <span><a href="https://github.com/DiegoLibonati/mfe-vite-boilerplate">MFE Vite Boilerplate</a></span>
+    <span>Personal template for Vite Microfrontends.</span>
+  </div>
+
+  <div>
+    <span>🛠️</span>
     <span><a href="https://github.com/DiegoLibonati/vue-3-ts-vite-boilerplate">Vue 3 TS Vite Boilberplate</a></span>
     <span>Personal template for Vite Vue3 TypeScript projects.</span>
   </div>
