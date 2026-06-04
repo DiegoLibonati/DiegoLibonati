@@ -14,166 +14,14 @@
 
 ###
 
-<div align="center"width="100%">
-  <a href="https://diegolibonati.com.ar/" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/10456/10456439.png" width="52" height="50" alt="website logo"  />
-  </a>
+<div align="center" width="100%">
+  <a href="https://diegolibonati.com.ar/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/10456/10456439.png" width="52" height="50" alt="website logo" /></a>
   <img width="12" />
-  <a href="https://www.linkedin.com/in/diego-libonati-67102419b/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="50" alt="linkedin logo"  />
-  </a>
+  <a href="https://www.linkedin.com/in/diego-libonati-67102419b/" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="50" alt="linkedin logo" /></a>
   <img width="12" />
-  <a href="https://www.instagram.com/die_libonati/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="50" alt="instagram logo"  />
-  </a>
+  <a href="https://www.instagram.com/die_libonati/" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="50" alt="instagram logo" /></a>
   <img width="12" />
-  <a href="https://www.facebook.com/dielibonati/?locale=es_LA" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="50" alt="facebook logo"  />
-  </a>
-</div>
-
-###
-
-<div width="100%">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=soft&height=100&section=footer&reversal=false&text=Technologies&fontSize=70&fontAlign=50&fontAlignY=50&stroke=-&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=gruvbox_light"  />
-</div>
-
-###
-
-<div align="center">
-
-  <!-- Lenguajes -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" height="40" alt="markdown" />
-  <img width="12" />
-
-  <!-- Frontend Frameworks -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="vue" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angular" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original.svg" height="40" alt="ionic" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" height="40" alt="electron" />
-  <img width="12" />
-
-  <!-- Backend Frameworks -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="flask" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django" />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="40" alt="nodejs" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" height="40" alt="graphql" />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/apollographql/311C87" height="40" alt="apollographql" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" height="40" alt="socketio" />
-  <img width="12" />
-
-  <!-- Bases de Datos -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40" alt="redis" />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/prisma/2D3748" height="40" alt="prisma" />
-  <img width="12" />
-  <img src="https://www.nicepng.com/png/full/207-2073547_sql-server-icon-png-29-transparent-background-database.png" height="40" alt="sql server" />
-  <img width="12" />
-  <img src="https://user-images.githubusercontent.com/12401985/69677316-60423a00-1081-11ea-9ec6-7334c0e491a5.png" height="40" alt="robo3t" />
-  <img width="12" />
-
-  <!-- Estilos -->
-  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40" alt="tailwindcss" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" alt="sass" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=styledcomponents" height="40" alt="styledcomponents" />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/vite/646CFF" height="40" alt="vite" />
-  <img width="12" />
-
-  <!-- Testing -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytest/pytest-original.svg" height="40" alt="pytest" />
-  <img width="12" />
-  <img src="https://testing-library.com/img/octopus-128x128.png" height="40" alt="react testing library" />
-  <img width="12" />
-  <img src="https://files.svgcdn.io/logos/vitest.png" height="40" alt="vitest" />
-  <img width="12" />
-
-  <!-- DevOps & Herramientas -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="40" alt="gitlab" />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/npm/CB3837" height="40" alt="npm" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker" />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/nginx/009639" height="40" alt="nginx" />
-  <img width="12" />
-
-  <!-- Herramientas de Desarrollo -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode" />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/postman/FF6C37" height="40" alt="postman" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/insomnia/insomnia-original.svg" height="40" alt="insomnia" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="40" alt="jira" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="androidstudio" />
-  <img width="12" />
-
-  <!-- Otros -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" alt="redux" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="storybook" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg" height="40" alt="eslint" />
-  <img width="12" />
-  <img src="https://cdn.creazilla.com/icons/3243981/expo-icon-lg.png" height="40" alt="expo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg" height="40" alt="threejs" />
-  <img width="12" />
-  <img src="https://images.icon-icons.com/3912/PNG/512/jinja_logo_icon_247964.png" height="40" alt="jinja2" />
-  <img width="12" />
-  <img src="https://user-images.githubusercontent.com/46412508/170405943-e75458ec-6cb4-462e-91ba-43c861a3d6cf.png" height="40" alt="pygame" />
-  <img width="12" />
-  <img src="https://pre-commit.com/logo.svg" height="40" alt="pre-commit" />
-  <img width="12" />
-  <img src="https://cdn.freebiesupply.com/logos/large/2x/prettier-2-logo-png-transparent.png" height="40" alt="prettier" />
+  <a href="https://www.facebook.com/dielibonati/?locale=es_LA" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="50" alt="facebook logo" /></a>
 </div>
 
 ###
@@ -187,110 +35,110 @@
 <div width="100%">
   <div>
     <span>🛠️</span>
-    <span><a href="https://github.com/DiegoLibonati/python-flask-mongo-api-boilerplate">Python Flask Mongo Api Boilerplate</a></span>
-    <span>Personal template for developing an API with Flask and MongoDB.</span>
-  </div>
-
-  <div>
-    <span>🛠️</span>
-    <span><a href="https://github.com/DiegoLibonati/python-flask-api-boilerplate">Python Flask Api Boilerplate</a></span>
-    <span>Personal template for developing an API with Flask.</span>
-  </div>
-
-  <div>
-    <span>🛠️</span>
-    <span><a href="https://github.com/DiegoLibonati/python-flask-ts-sql-web-boilerplate">Python Flask Ts Sql Web Boilerplate</a></span>
-    <span>Personal template for developing an Flask MVC with SQL App.</span>
-  </div>
-  
-  <div>
-    <span>🛠️</span>
-    <span><a href="https://github.com/DiegoLibonati/node-ts-express-sql-api-boilerplate">Node Ts Express SQL Api Boilerplate</a></span>
-    <span>Personal template for developing an API with Express and SQL.</span>
-  </div>
-
-  <div>
-    <span>🛠️</span>
-    <span><a href="https://github.com/DiegoLibonati/node-ts-express-api-boilerplate">Node Ts Express Api Boilerplate</a></span>
-    <span>Personal template for developing an API with Express.</span>
-  </div>
-
-  <div>
-    <span>🛠️</span>
-    <span><a href="https://github.com/DiegoLibonati/node-ts-express-graphql-boilerplate">Node Ts Express GraphQL Boilerplate</a></span>
-    <span>Personal template for developing an GraphQl server with Express.</span>
-  </div>
-  
-  <div>
-    <span>🛠️</span>
-    <span><a href="https://github.com/DiegoLibonati/node-ts-express-socket-boilerplate">Node Ts Express Socket Boilerplate</a></span>
-    <span>Personal template for developing an Socket server with Express.</span>
+    <span><a href="https://github.com/DiegoLibonati/mfe-vite-boilerplate">MFE Vite Boilerplate</a></span>
+    <span>Starter template for building micro-frontends with Vite.</span>
   </div>
 
   <div>
     <span>🛠️</span>
     <span><a href="https://github.com/DiegoLibonati/next-16-ts-mongo-boilerplate">NextJS 16 Ts Mongo Boilerplate</a></span>
-    <span>Personal template for developing an APP with NextJS 16 Typescript</span>
-  </div>
-  
-  <div>
-    <span>🛠️</span>
-    <span><a href="https://github.com/DiegoLibonati/typescript-vite-boilerplate">Typescript Vite Boilerplate</a></span>
-    <span>Personal template for Vite Vanilla TypeScript projects.</span>
+    <span>Starter template for full-stack apps with Next.js 16, TypeScript and MongoDB.</span>
   </div>
 
   <div>
     <span>🛠️</span>
-    <span><a href="https://github.com/DiegoLibonati/mfe-vite-boilerplate">MFE Vite Boilerplate</a></span>
-    <span>Personal template for Vite Microfrontends.</span>
+    <span><a href="https://github.com/DiegoLibonati/node-ts-express-api-boilerplate">Node Ts Express Api Boilerplate</a></span>
+    <span>Starter template for REST APIs with Express and TypeScript.</span>
   </div>
 
   <div>
     <span>🛠️</span>
-    <span><a href="https://github.com/DiegoLibonati/vue-3-ts-vite-boilerplate">Vue 3 TS Vite Boilberplate</a></span>
-    <span>Personal template for Vite Vue3 TypeScript projects.</span>
+    <span><a href="https://github.com/DiegoLibonati/node-ts-express-graphql-boilerplate">Node Ts Express GraphQL Boilerplate</a></span>
+    <span>Starter template for GraphQL servers with Express and TypeScript.</span>
   </div>
 
   <div>
     <span>🛠️</span>
-    <span><a href="https://github.com/DiegoLibonati/react-ts-vite-boilerplate">React Ts Vite Boilerplate</a></span>
-    <span>Personal template for Vite React TypeScript projects.</span>
+    <span><a href="https://github.com/DiegoLibonati/node-ts-express-socket-boilerplate">Node Ts Express Socket Boilerplate</a></span>
+    <span>Starter template for real-time Socket.io servers with Express and TypeScript.</span>
   </div>
 
   <div>
     <span>🛠️</span>
-    <span><a href="https://github.com/DiegoLibonati/react-native-ts-expo-boilerplate">React Native Ts Expo Boilerplate</a></span>
-    <span>Personal template for Expo React Native TypeScript projects.</span>
+    <span><a href="https://github.com/DiegoLibonati/node-ts-express-sql-api-boilerplate">Node Ts Express SQL Api Boilerplate</a></span>
+    <span>Starter template for REST APIs with Express, TypeScript and SQL.</span>
   </div>
-  
+
   <div>
     <span>🛠️</span>
-    <span><a href="https://github.com/DiegoLibonati/python-tkinter-boilerplate">Python Tkinter Boilerplate</a></span>
-    <span>Personal template for developing a desktop application with a graphical interface using Tkinter and Python.</span>
+    <span><a href="https://github.com/DiegoLibonati/python-flask-api-boilerplate">Python Flask Api Boilerplate</a></span>
+    <span>Starter template for building REST APIs with Flask.</span>
+  </div>
+
+  <div>
+    <span>🛠️</span>
+    <span><a href="https://github.com/DiegoLibonati/python-flask-mongo-api-boilerplate">Python Flask Mongo Api Boilerplate</a></span>
+    <span>Starter template for REST APIs with Flask and MongoDB.</span>
+  </div>
+
+  <div>
+    <span>🛠️</span>
+    <span><a href="https://github.com/DiegoLibonati/python-flask-ts-sql-web-boilerplate">Python Flask Ts Sql Web Boilerplate</a></span>
+    <span>Starter template for Flask MVC web apps with SQL and a TypeScript front-end.</span>
   </div>
 
   <div>
     <span>🛠️</span>
     <span><a href="https://github.com/DiegoLibonati/python-library-boilerplate">Python Library Boilerplate</a></span>
-    <span>Personal template for developing an library with python.</span>
+    <span>Starter template for packaging and publishing Python libraries.</span>
+  </div>
+
+  <div>
+    <span>🛠️</span>
+    <span><a href="https://github.com/DiegoLibonati/python-pygame-boilerplate">Python Pygame Boilerplate</a></span>
+    <span>Starter template for building games with Pygame.</span>
+  </div>
+
+  <div>
+    <span>🛠️</span>
+    <span><a href="https://github.com/DiegoLibonati/python-tkinter-boilerplate">Python Tkinter Boilerplate</a></span>
+    <span>Starter template for desktop apps with a graphical interface using Tkinter and Python.</span>
+  </div>
+
+  <div>
+    <span>🛠️</span>
+    <span><a href="https://github.com/DiegoLibonati/react-native-ts-expo-boilerplate">React Native Ts Expo Boilerplate</a></span>
+    <span>Starter template for cross-platform mobile apps with Expo, React Native and TypeScript.</span>
   </div>
 
   <div>
     <span>🛠️</span>
     <span><a href="https://github.com/DiegoLibonati/react-ts-library-vite-boilerplate">React Ts Library Vite Boilerplate</a></span>
-    <span>Personal template for developing an library with react.</span>
+    <span>Starter template for building React component libraries with Vite and TypeScript.</span>
+  </div>
+
+  <div>
+    <span>🛠️</span>
+    <span><a href="https://github.com/DiegoLibonati/react-ts-vite-boilerplate">React Ts Vite Boilerplate</a></span>
+    <span>Starter template for React apps with Vite and TypeScript.</span>
+  </div>
+
+  <div>
+    <span>🛠️</span>
+    <span><a href="https://github.com/DiegoLibonati/typescript-vite-boilerplate">Typescript Vite Boilerplate</a></span>
+    <span>Starter template for vanilla TypeScript projects with Vite.</span>
   </div>
 
   <div>
     <span>🛠️</span>
     <span><a href="https://github.com/DiegoLibonati/vscode-extension-ts-boilerplate">VSCode Extension Ts Boilerplate</a></span>
-    <span>Personal template for creating VSCode Extensions.</span>
+    <span>Starter template for building VSCode extensions with TypeScript.</span>
   </div>
-  
+
   <div>
     <span>🛠️</span>
-    <span><a href="https://github.com/DiegoLibonati/python-pygame-boilerplate">Python Pygame Boilerplate</a></span>
-    <span>Personal template for creating games with PyGame.</span>
+    <span><a href="https://github.com/DiegoLibonati/vue-3-ts-vite-boilerplate">Vue 3 TS Vite Boilerplate</a></span>
+    <span>Starter template for Vue 3 apps with Vite and TypeScript.</span>
   </div>
 </div>
 
@@ -304,23 +152,365 @@
 
 <div width="100%">
   <div>
+    <span>🎂</span>
+    <span><a href="https://github.com/DiegoLibonati/age-snap">Age Snap</a></span>
+    <span>A Python tool that calculates your exact age in years, months and days.</span>
+  </div>
+
+  <div>
+    <span>🛒</span>
+    <span><a href="https://github.com/DiegoLibonati/baggage">Baggage</a></span>
+    <span>A shopping cart application built with React and Redux.</span>
+  </div>
+
+  <div>
+    <span>🍹</span>
+    <span><a href="https://github.com/DiegoLibonati/barlore">Barlore</a></span>
+    <span>A cocktail discovery app powered by TheCocktailDB API.</span>
+  </div>
+
+  <div>
+    <span>🃏</span>
+    <span><a href="https://github.com/DiegoLibonati/bloomcard">Bloomcard</a></span>
+    <span>Interactive expanding cards with smooth click animations.</span>
+  </div>
+
+  <div>
+    <span>⚖️</span>
+    <span><a href="https://github.com/DiegoLibonati/body-mark">Body Mark</a></span>
+    <span>A Python tool to calculate Body Mass Index (BMI).</span>
+  </div>
+
+  <div>
+    <span>🎮</span>
+    <span><a href="https://github.com/DiegoLibonati/brick-pulse">Brick Pulse</a></span>
+    <span>The classic Breakout arcade game built with TypeScript and Canvas.</span>
+  </div>
+
+  <div>
+    <span>📺</span>
+    <span><a href="https://github.com/DiegoLibonati/broadbase">Broadbase</a></span>
+    <span>A TV channel viewer backed by a GraphQL server with full CRUD support.</span>
+  </div>
+
+  <div>
+    <span>🔢</span>
+    <span><a href="https://github.com/DiegoLibonati/calcify">Calcify</a></span>
+    <span>A web calculator for everyday arithmetic operations.</span>
+  </div>
+
+  <div>
+    <span>🔴</span>
+    <span><a href="https://github.com/DiegoLibonati/chroma-echo">Chroma Echo</a></span>
+    <span>The Simon Says memory game with multiple difficulty levels.</span>
+  </div>
+
+  <div>
+    <span>🎨</span>
+    <span><a href="https://github.com/DiegoLibonati/color-flipper">Color Flipper</a></span>
+    <span>A web app that generates random colors at the click of a button.</span>
+  </div>
+
+  <div>
+    <span>➕</span>
+    <span><a href="https://github.com/DiegoLibonati/countly">Countly</a></span>
+    <span>A counter app built with React hooks.</span>
+  </div>
+
+  <div>
+    <span>✂️</span>
+    <span><a href="https://github.com/DiegoLibonati/cut-tube">Cut Tube</a></span>
+    <span>A web app to download and trim YouTube videos.</span>
+  </div>
+
+  <div>
+    <span>👤</span>
+    <span><a href="https://github.com/DiegoLibonati/DiegoLibonati">DiegoLibonati</a></span>
+    <span>My GitHub profile README with personal information and stats.</span>
+  </div>
+
+  <div>
+    <span>🎨</span>
+    <span><a href="https://github.com/DiegoLibonati/drawlingo">Drawlingo</a></span>
+    <span>A real-time multiplayer drawing and guessing game built with Vue and Socket.io.</span>
+  </div>
+
+  <div>
+    <span>🛍️</span>
+    <span><a href="https://github.com/DiegoLibonati/dshop">DShop</a></span>
+    <span>A full-stack e-commerce app built with React, Flask, MongoDB and Docker.</span>
+  </div>
+
+  <div>
+    <span>📄</span>
+    <span><a href="https://github.com/DiegoLibonati/dummycraft">Dummycraft</a></span>
+    <span>A Lorem Ipsum generator built with React.</span>
+  </div>
+
+  <div>
+    <span>🚩</span>
+    <span><a href="https://github.com/DiegoLibonati/flag-oracle">Flag Oracle</a></span>
+    <span>A quiz game to guess countries by their flags.</span>
+  </div>
+
+  <div>
+    <span>📓</span>
+    <span><a href="https://github.com/DiegoLibonati/folia">Folia</a></span>
+    <span>A Python notepad with file operations and font customization.</span>
+  </div>
+
+  <div>
+    <span>👥</span>
+    <span><a href="https://github.com/DiegoLibonati/foliohub">Foliohub</a></span>
+    <span>A web app to search and explore GitHub user profiles.</span>
+  </div>
+
+  <div>
+    <span>🎮</span>
+    <span><a href="https://github.com/DiegoLibonati/free-games">Free Games</a></span>
+    <span>A web app to browse and search free-to-play games across platforms.</span>
+  </div>
+
+  <div>
+    <span>🛒</span>
+    <span><a href="https://github.com/DiegoLibonati/freshlist">Freshlist</a></span>
+    <span>A grocery list app with local-storage persistence.</span>
+  </div>
+
+  <div>
+    <span>🎬</span>
+    <span><a href="https://github.com/DiegoLibonati/gif-dive">Gif Dive</a></span>
+    <span>A GIF search app powered by the Giphy API.</span>
+  </div>
+
+  <div>
+    <span>⭐</span>
+    <span><a href="https://github.com/DiegoLibonati/glimpsed">Glimpsed</a></span>
+    <span>A reviews slider with navigation and a random-review feature.</span>
+  </div>
+
+  <div>
+    <span>✊</span>
+    <span><a href="https://github.com/DiegoLibonati/grip-duel">Grip Duel</a></span>
+    <span>The classic rock-paper-scissors game against the computer.</span>
+  </div>
+
+  <div>
+    <span>🥬</span>
+    <span><a href="https://github.com/DiegoLibonati/haul">Haul</a></span>
+    <span>A grocery list app built with React and local storage.</span>
+  </div>
+
+  <div>
+    <span>🦸</span>
+    <span><a href="https://github.com/DiegoLibonati/hero-dex">Hero Dex</a></span>
+    <span>A superhero search app powered by the Superhero API.</span>
+  </div>
+
+  <div>
+    <span>🎨</span>
+    <span><a href="https://github.com/DiegoLibonati/inklet">Inklet</a></span>
+    <span>A web drawing app with a canvas and multiple brush tools.</span>
+  </div>
+
+  <div>
+    <span>📸</span>
+    <span><a href="https://github.com/DiegoLibonati/instabridge">Instabridge</a></span>
+    <span>A wrapper to access the Instagram Graph API efficiently.</span>
+  </div>
+
+  <div>
+    <span>⏱️</span>
+    <span><a href="https://github.com/DiegoLibonati/lapstr">Lapstr</a></span>
+    <span>A stopwatch app with lap tracking and customizable skins.</span>
+  </div>
+
+  <div>
+    <span>📖</span>
+    <span><a href="https://github.com/DiegoLibonati/lend-book">Lend Book</a></span>
+    <span>A library management system built in Python using OOP principles.</span>
+  </div>
+
+  <div>
+    <span>🔐</span>
+    <span><a href="https://github.com/DiegoLibonati/lockscript">Lockscript</a></span>
+    <span>A Python tool to encrypt and decrypt text messages.</span>
+  </div>
+
+  <div>
+    <span>🍔</span>
+    <span><a href="https://github.com/DiegoLibonati/meal-deck">Meal Deck</a></span>
+    <span>A restaurant menu page with category filtering.</span>
+  </div>
+
+  <div>
+    <span>🐹</span>
+    <span><a href="https://github.com/DiegoLibonati/mole-rush">Mole Rush</a></span>
+    <span>The classic Whac-A-Mole arcade game with a 60-second timer.</span>
+  </div>
+
+  <div>
+    <span>🔄</span>
+    <span><a href="https://github.com/DiegoLibonati/morphson">Morphson</a></span>
+    <span>A tool to automate JSON file creation and translation.</span>
+  </div>
+
+  <div>
+    <span>📂</span>
+    <span><a href="https://github.com/DiegoLibonati/nexdrive">Nexdrive</a></span>
+    <span>A file-manager web app built with Next.js and Firebase.</span>
+  </div>
+
+  <div>
+    <span>🍕</span>
+    <span><a href="https://github.com/DiegoLibonati/nibble">Nibble</a></span>
+    <span>A restaurant menu application built with React.</span>
+  </div>
+
+  <div>
+    <span>☁️</span>
+    <span><a href="https://github.com/DiegoLibonati/nimbus">Nimbus</a></span>
+    <span>A Python weather checker with a Tkinter GUI.</span>
+  </div>
+
+  <div>
+    <span>📝</span>
+    <span><a href="https://github.com/DiegoLibonati/noti">Noti</a></span>
+    <span>A notes web app with user authentication built on Flask.</span>
+  </div>
+
+  <div>
+    <span>📱</span>
+    <span><a href="https://github.com/DiegoLibonati/numra">Numra</a></span>
+    <span>A cross-platform calculator app built with React Native and Expo.</span>
+  </div>
+
+  <div>
+    <span>🗣️</span>
+    <span><a href="https://github.com/DiegoLibonati/oratio">Oratio</a></span>
+    <span>A Python text-to-speech tool with language selection.</span>
+  </div>
+
+  <div>
     <span>🎮</span>
     <span><a href="https://github.com/DiegoLibonati/orbita">Orbita</a></span>
-    <span>A 3D object viewer built with Three.js to visualize and interact with 3D models.</span>
+    <span>A 3D object viewer built with Three.js to load and interact with models.</span>
   </div>
-  
+
+  <div>
+    <span>💬</span>
+    <span><a href="https://github.com/DiegoLibonati/ovation">Ovation</a></span>
+    <span>A reviews section component built with React.</span>
+  </div>
+
+  <div>
+    <span>🧠</span>
+    <span><a href="https://github.com/DiegoLibonati/pair-dash">Pair Dash</a></span>
+    <span>The classic memory card-matching game.</span>
+  </div>
+
+  <div>
+    <span>🌈</span>
+    <span><a href="https://github.com/DiegoLibonati/paletto">Paletto</a></span>
+    <span>A color palette generator that builds shades and tints from any color.</span>
+  </div>
+
+  <div>
+    <span>📝</span>
+    <span><a href="https://github.com/DiegoLibonati/paragrafts">Paragrafts</a></span>
+    <span>A Lorem Ipsum generator based on paragraph count.</span>
+  </div>
+
+  <div>
+    <span>🔒</span>
+    <span><a href="https://github.com/DiegoLibonati/passcraft">Passcraft</a></span>
+    <span>A random password generator with customizable options.</span>
+  </div>
+
+  <div>
+    <span>🔑</span>
+    <span><a href="https://github.com/DiegoLibonati/portello">Portello</a></span>
+    <span>A sign-up and login system built with Python, Tkinter and MongoDB.</span>
+  </div>
+
+  <div>
+    <span>✅</span>
+    <span><a href="https://github.com/DiegoLibonati/propel">Propel</a></span>
+    <span>A task manager built in Python with priorities and due dates.</span>
+  </div>
+
+  <div>
+    <span>🎠</span>
+    <span><a href="https://github.com/DiegoLibonati/quoteflo">Quoteflo</a></span>
+    <span>An infinite quote slider built with React.</span>
+  </div>
+
+  <div>
+    <span>🍳</span>
+    <span><a href="https://github.com/DiegoLibonati/recipic">Recipic</a></span>
+    <span>A recipe app with Instagram-style stories powered by TheMealDB API.</span>
+  </div>
+
   <div>
     <span>🎵</span>
     <span><a href="https://github.com/DiegoLibonati/revealr">Revealr</a></span>
-    <span>An accordion component built with React to show/hide content sections.</span>
+    <span>An accordion component built with React to show and hide content.</span>
   </div>
-  
+
   <div>
-    <span>🎂</span>
-    <span><a href="https://github.com/DiegoLibonati/age-snap">Age Snap</a></span>
-    <span>A Python program to calculate your exact age in years, months and days.</span>
+    <span>🗒️</span>
+    <span><a href="https://github.com/DiegoLibonati/scribbit">Scribbit</a></span>
+    <span>A web notes app with create, edit and delete features.</span>
   </div>
-  
+
+  <div>
+    <span>📱</span>
+    <span><a href="https://github.com/DiegoLibonati/scribo">Scribo</a></span>
+    <span>A notes app built with React Native and Expo.</span>
+  </div>
+
+  <div>
+    <span>☑️</span>
+    <span><a href="https://github.com/DiegoLibonati/slicedo">Slicedo</a></span>
+    <span>A categorized ToDo app built with React and Redux.</span>
+  </div>
+
+  <div>
+    <span>📁</span>
+    <span><a href="https://github.com/DiegoLibonati/sortex">Sortex</a></span>
+    <span>A Python tool that automatically organizes files by extension.</span>
+  </div>
+
+  <div>
+    <span>🚀</span>
+    <span><a href="https://github.com/DiegoLibonati/starward-run">Starward Run</a></span>
+    <span>A Pygame space runner featuring monsters and power-ups.</span>
+  </div>
+
+  <div>
+    <span>📑</span>
+    <span><a href="https://github.com/DiegoLibonati/stripe-nav">Stripe Nav</a></span>
+    <span>A Stripe-style dropdown navigation menu built with React.</span>
+  </div>
+
+  <div>
+    <span>📋</span>
+    <span><a href="https://github.com/DiegoLibonati/tabula">Tabula</a></span>
+    <span>A tabs component for switching between content sections.</span>
+  </div>
+
+  <div>
+    <span>🔢</span>
+    <span><a href="https://github.com/DiegoLibonati/tally">Tally</a></span>
+    <span>A simple counter with increment, decrement and reset.</span>
+  </div>
+
+  <div>
+    <span>📝</span>
+    <span><a href="https://github.com/DiegoLibonati/taskrift">Taskrift</a></span>
+    <span>A ToDo app with drag-and-drop support.</span>
+  </div>
+
   <div>
     <span>🎉</span>
     <span><a href="https://github.com/DiegoLibonati/todayborn">Todayborn</a></span>
@@ -328,411 +518,69 @@
   </div>
 
   <div>
-    <span>📖</span>
-    <span><a href="https://github.com/DiegoLibonati/lend-book">Lend Book</a></span>
-    <span>A library management system in Python using OOP principles.</span>
+    <span>🔍</span>
+    <span><a href="https://github.com/DiegoLibonati/token-sentry">Token Sentry</a></span>
+    <span>A VSCode extension that detects sensitive data before commits.</span>
   </div>
-  
-  <div>
-    <span>📚</span>
-    <span><a href="https://github.com/DiegoLibonati/virbooks">Virbooks</a></span>
-    <span>A full-stack bookstore application with React frontend and Flask backend.</span>
-  </div>
-  
-  <div>
-    <span>🎮</span>
-    <span><a href="https://github.com/DiegoLibonati/brick-pulse">Brick Pulse</a></span>
-    <span>The classic Breakout arcade game built with TypeScript and Canvas.</span>
-  </div>
-  
-  <div>
-    <span>📱</span>
-    <span><a href="https://github.com/DiegoLibonati/numra">Numra</a></span>
-    <span>A calculator mobile app built with React Native and Expo.</span>
-  </div>
-  
-  <div>
-    <span>🔢</span>
-    <span><a href="https://github.com/DiegoLibonati/calcify">Calcify</a></span>
-    <span>A web calculator with basic arithmetic operations.</span>
-  </div>
-  
-  <div>
-    <span>🛒</span>
-    <span><a href="https://github.com/DiegoLibonati/baggage">Baggage</a></span>
-    <span>A shopping cart application built with React and Redux.</span>
-  </div>
-  
-  <div>
-    <span>🎨</span>
-    <span><a href="https://github.com/DiegoLibonati/color-flipper">Color Flipper</a></span>
-    <span>A web app that generates random colors with a button click.</span>
-  </div>
-  
-  <div>
-    <span>🌈</span>
-    <span><a href="https://github.com/DiegoLibonati/paletto">Paletto</a></span>
-    <span>A color palette generator that creates shades and tints from any color.</span>
-  </div>
-  
-  <div>
-    <span>⏰</span>
-    <span><a href="https://github.com/DiegoLibonati/zero-hour">Zero Hour</a></span>
-    <span>A countdown timer to track time until a specific date.</span>
-  </div>
-  
-  <div>
-    <span>🔢</span>
-    <span><a href="https://github.com/DiegoLibonati/tally">Tally</a></span>
-    <span>A simple counter with increment, decrement and reset functionality.</span>
-  </div>
-  
-  <div>
-    <span>➕</span>
-    <span><a href="https://github.com/DiegoLibonati/countly">Countly</a></span>
-    <span>A counter application built with React hooks.</span>
-  </div>
-  
-  <div>
-    <span>✂️</span>
-    <span><a href="https://github.com/DiegoLibonati/cut-tube">Cut Tube</a></span>
-    <span>A web app to download and cut YouTube videos.</span>
-  </div>
-  
-  <div>
-    <span>🎬</span>
-    <span><a href="https://github.com/DiegoLibonati/gif-dive">Gif Dive</a></span>
-    <span>A GIF search application using the Giphy API.</span>
-  </div>
-  
-  <div>
-    <span>👤</span>
-    <span><a href="https://github.com/DiegoLibonati/DiegoLibonati">DiegoLibonati</a></span>
-    <span>My GitHub profile README with personal information and stats.</span>
-  </div>
-  
-  <div>
-    <span>🎨</span>
-    <span><a href="https://github.com/DiegoLibonati/inklet">Inklet</a></span>
-    <span>A web drawing application with canvas and various brush tools.</span>
-  </div>
-  
-  <div>
-    <span>🛍️</span>
-    <span><a href="https://github.com/DiegoLibonati/dshop">DShop</a></span>
-    <span>An e-commerce application with React, Flask, MongoDB and Docker.</span>
-  </div>
-  
-  <div>
-    <span>🔐</span>
-    <span><a href="https://github.com/DiegoLibonati/lockscript">Lockscript</a></span>
-    <span>A Python program to encrypt and decrypt text messages.</span>
-  </div>
-  
-  <div>
-    <span>🃏</span>
-    <span><a href="https://github.com/DiegoLibonati/bloomcard">Bloomcard</a></span>
-    <span>Interactive expanding cards with smooth animations on click.</span>
-  </div>
-  
-  <div>
-    <span>📁</span>
-    <span><a href="https://github.com/DiegoLibonati/sortex">Sortex</a></span>
-    <span>A Python program to automatically organize files by extension.</span>
-  </div>
-  
-  <div>
-    <span>📂</span>
-    <span><a href="https://github.com/DiegoLibonati/nexdrive">Nexdrive</a></span>
-    <span>A file manager web application built with Next.js and Firebase.</span>
-  </div>
-  
-  <div>
-    <span>🚩</span>
-    <span><a href="https://github.com/DiegoLibonati/flag-oracle">Flag Oracle</a></span>
-    <span>A quiz game to guess countries by their flags.</span>
-  </div>
-  
-  <div>
-    <span>🎮</span>
-    <span><a href="https://github.com/DiegoLibonati/free-games">Free Games</a></span>
-    <span>A web app to browse and search free-to-play games.</span>
-  </div>
-  
-  <div>
-    <span>👥</span>
-    <span><a href="https://github.com/DiegoLibonati/foliohub">Foliohub</a></span>
-    <span>A web app to search and display GitHub user profiles.</span>
-  </div>
-  
-  <div>
-    <span>🛒</span>
-    <span><a href="https://github.com/DiegoLibonati/freshlist">Freshlist</a></span>
-    <span>A grocery list application with local storage persistence.</span>
-  </div>
-  
-  <div>
-    <span>🥬</span>
-    <span><a href="https://github.com/DiegoLibonati/haul">Haul</a></span>
-    <span>A grocery list app built with React and local storage.</span>
-  </div>
-  
-  <div>
-    <span>🦸</span>
-    <span><a href="https://github.com/DiegoLibonati/hero-dex">Hero Dex</a></span>
-    <span>A superhero search application using the Superhero API.</span>
-  </div>
-  
-  <div>
-    <span>⚖️</span>
-    <span><a href="https://github.com/DiegoLibonati/body-mark">Body Mark</a></span>
-    <span>A Python program to calculate Body Mass Index (BMI).</span>
-  </div>
-  
-  <div>
-    <span>📸</span>
-    <span><a href="https://github.com/DiegoLibonati/instabridge">Instabridge</a></span>
-    <span>An API wrapper to access Instagram Graph API efficiently.</span>
-  </div>
-  
-  <div>
-    <span>🔄</span>
-    <span><a href="https://github.com/DiegoLibonati/morphson">Morphson</a></span>
-    <span>A tool to automate JSON file creation and translation.</span>
-  </div>
-  
-  <div>
-    <span>🔑</span>
-    <span><a href="https://github.com/DiegoLibonati/portello">Portello</a></span>
-    <span>A registration and login system with Python, Tkinter and MongoDB.</span>
-  </div>
-  
-  <div>
-    <span>📝</span>
-    <span><a href="https://github.com/DiegoLibonati/paragrafts">Paragrafts</a></span>
-    <span>A Lorem Ipsum text generator based on paragraph count.</span>
-  </div>
-  
-  <div>
-    <span>📄</span>
-    <span><a href="https://github.com/DiegoLibonati/dummycraft">Dummycraft</a></span>
-    <span>A Lorem Ipsum generator built with React.</span>
-  </div>
-  
-  <div>
-    <span>🧠</span>
-    <span><a href="https://github.com/DiegoLibonati/pair-dash">Pair Dash</a></span>
-    <span>The classic memory card matching game.</span>
-  </div>
-  
-  <div>
-    <span>🍔</span>
-    <span><a href="https://github.com/DiegoLibonati/meal-deck">Meal Deck</a></span>
-    <span>A restaurant menu page with category filtering.</span>
-  </div>
-  
-  <div>
-    <span>🍕</span>
-    <span><a href="https://github.com/DiegoLibonati/nibble">Nibble</a></span>
-    <span>A restaurant menu application built with React.</span>
-  </div>
-  
-  <div>
-    <span>📓</span>
-    <span><a href="https://github.com/DiegoLibonati/folia">Folia</a></span>
-    <span>A Python notepad with file operations and font customization.</span>
-  </div>
-  
-  <div>
-    <span>📱</span>
-    <span><a href="https://github.com/DiegoLibonati/scribo">Scribo</a></span>
-    <span>A notes app built with React Native and Expo.</span>
-  </div>
-  
-  <div>
-    <span>🗒️</span>
-    <span><a href="https://github.com/DiegoLibonati/scribbit">Scribbit</a></span>
-    <span>A web notes application with create, edit and delete features.</span>
-  </div>
-  
-  <div>
-    <span>📝</span>
-    <span><a href="https://github.com/DiegoLibonati/noti">Noti</a></span>
-    <span>A notes web app with user authentication using Flask.</span>
-  </div>
-  
-  <div>
-    <span>🔒</span>
-    <span><a href="https://github.com/DiegoLibonati/passcraft">Passcraft</a></span>
-    <span>A random password generator with customizable options.</span>
-  </div>
-  
-  <div>
-    <span>📺</span>
-    <span><a href="https://github.com/DiegoLibonati/broadbase">Broadbase</a></span>
-    <span>A TV channel viewer with GraphQL server and CRUD operations.</span>
-  </div>
-  
-  <div>
-    <span>🎨</span>
-    <span><a href="https://github.com/DiegoLibonati/drawlingo">Drawlingo</a></span>
-    <span>A multiplayer drawing and guessing game with Vue and Socket.io.</span>
-  </div>
-  
-  <div>
-    <span>❓</span>
-    <span><a href="https://github.com/DiegoLibonati/unfold">Unfold</a></span>
-    <span>A FAQ accordion system with expand/collapse functionality.</span>
-  </div>
-  
-  <div>
-    <span>🍳</span>
-    <span><a href="https://github.com/DiegoLibonati/recipic">Recipic</a></span>
-    <span>A recipe app with Instagram-style stories using TheMealDB API.</span>
-  </div>
-  
-  <div>
-    <span>🎙️</span>
-    <span><a href="https://github.com/DiegoLibonati/vaultone">Vaultone</a></span>
-    <span>A Python program to record audio from microphone.</span>
-  </div>
-  
-  <div>
-    <span>⭐</span>
-    <span><a href="https://github.com/DiegoLibonati/glimpsed">Glimpsed</a></span>
-    <span>A reviews slider with navigation and random review feature.</span>
-  </div>
-  
-  <div>
-    <span>💬</span>
-    <span><a href="https://github.com/DiegoLibonati/ovation">Ovation</a></span>
-    <span>A reviews section component built with React.</span>
-  </div>
-  
-  <div>
-    <span>✊</span>
-    <span><a href="https://github.com/DiegoLibonati/grip-duel">Grip Duel</a></span>
-    <span>The classic rock paper scissors game against AI.</span>
-  </div>
-  
-  <div>
-    <span>🔴</span>
-    <span><a href="https://github.com/DiegoLibonati/chroma-echo">Chroma Echo</a></span>
-    <span>The Simon Says memory game with multiple difficulty levels.</span>
-  </div>
-  
-  <div>
-    <span>🎠</span>
-    <span><a href="https://github.com/DiegoLibonati/quoteflo">Quoteflo</a></span>
-    <span>An infinite slider component built with React.</span>
-  </div>
-  
-  <div>
-    <span>🚀</span>
-    <span><a href="https://github.com/DiegoLibonati/starward-run">Starward Run</a></span>
-    <span>A PyGame space runner with monsters and power-ups.</span>
-  </div>
-  
-  <div>
-    <span>🗣️</span>
-    <span><a href="https://github.com/DiegoLibonati/oratio">Oratio</a></span>
-    <span>A Python text-to-speech program with language selection.</span>
-  </div>
-  
-  <div>
-    <span>✏️</span>
-    <span><a href="https://github.com/DiegoLibonati/word-sentry">Word Sentry</a></span>
-    <span>A Python program to correct and predict misspelled words.</span>
-  </div>
-  
+
   <div>
     <span>📦</span>
     <span><a href="https://github.com/DiegoLibonati/tower-drop">Tower Drop</a></span>
-    <span>A 3D block stacking game built with Three.js.</span>
+    <span>A 3D block-stacking game built with Three.js.</span>
   </div>
-  
+
   <div>
-    <span>⏱️</span>
-    <span><a href="https://github.com/DiegoLibonati/lapstr">Lapstr</a></span>
-    <span>A stopwatch app with lap tracking and customizable skins.</span>
+    <span>❓</span>
+    <span><a href="https://github.com/DiegoLibonati/unfold">Unfold</a></span>
+    <span>A FAQ accordion with expand and collapse functionality.</span>
   </div>
-  
+
   <div>
-    <span>📑</span>
-    <span><a href="https://github.com/DiegoLibonati/stripe-nav">Stripe Nav</a></span>
-    <span>A Stripe-style dropdown navigation menu in React.</span>
+    <span>⌨️</span>
+    <span><a href="https://github.com/DiegoLibonati/use-keyboard">UseKeyboard</a></span>
+    <span>A React hook library to run code in response to key presses.</span>
   </div>
-  
+
   <div>
-    <span>📋</span>
-    <span><a href="https://github.com/DiegoLibonati/tabula">Tabula</a></span>
-    <span>A tabs component to switch between content sections.</span>
+    <span>🎙️</span>
+    <span><a href="https://github.com/DiegoLibonati/vaultone">Vaultone</a></span>
+    <span>A Python tool to record audio from the microphone.</span>
   </div>
-  
+
+  <div>
+    <span>📚</span>
+    <span><a href="https://github.com/DiegoLibonati/virbooks">Virbooks</a></span>
+    <span>A full-stack bookstore app with a React front-end and Flask back-end.</span>
+  </div>
+
+  <div>
+    <span>✈️</span>
+    <span><a href="https://github.com/DiegoLibonati/voyagr">Voyagr</a></span>
+    <span>A tour-listing app with show/hide details and delete features.</span>
+  </div>
+
+  <div>
+    <span>✏️</span>
+    <span><a href="https://github.com/DiegoLibonati/word-sentry">Word Sentry</a></span>
+    <span>A Python tool to correct and predict misspelled words.</span>
+  </div>
+
   <div>
     <span>🗂️</span>
     <span><a href="https://github.com/DiegoLibonati/work-folio">Work Folio</a></span>
     <span>A tabs component built with React.</span>
   </div>
-  
-  <div>
-    <span>✅</span>
-    <span><a href="https://github.com/DiegoLibonati/propel">Propel</a></span>
-    <span>A task manager in Python with priorities and due dates.</span>
-  </div>
-  
-  <div>
-    <span>🍹</span>
-    <span><a href="https://github.com/DiegoLibonati/barlore">Barlore</a></span>
-    <span>A cocktail search app using TheCocktailDB API.</span>
-  </div>
-  
-  <div>
-    <span>📝</span>
-    <span><a href="https://github.com/DiegoLibonati/taskrift">Taskrift</a></span>
-    <span>A ToDo app with drag and drop functionality.</span>
-  </div>
-  
-  <div>
-    <span>☑️</span>
-    <span><a href="https://github.com/DiegoLibonati/slicedo">Slicedo</a></span>
-    <span>A ToDo app with categories using React and Redux.</span>
-  </div>
-  
-  <div>
-    <span>🔍</span>
-    <span><a href="https://github.com/DiegoLibonati/token-sentry">Token Sentry</a></span>
-    <span>A VSCode extension to detect sensitive data before commits.</span>
-  </div>
-  
-  <div>
-    <span>✈️</span>
-    <span><a href="https://github.com/DiegoLibonati/voyagr">Voyagr</a></span>
-    <span>A tour listing app with show/hide info and delete features.</span>
-  </div>
-  
-  <div>
-    <span>⌨️</span>
-    <span><a href="https://github.com/DiegoLibonati/use-keyboard">UseKeyboard</a></span>
-    <span>A React library hook to execute code based on key presses.</span>
-  </div>
-  
+
   <div>
     <span>🌤️</span>
     <span><a href="https://github.com/DiegoLibonati/zephyr">Zephyr</a></span>
-    <span>A weather app using the Weather API.</span>
+    <span>A weather app powered by the Weather API.</span>
   </div>
-  
+
   <div>
-    <span>☁️</span>
-    <span><a href="https://github.com/DiegoLibonati/nimbus">Nimbus</a></span>
-    <span>A Python weather checker with Tkinter GUI.</span>
-  </div>
-  
-  <div>
-    <span>🐹</span>
-    <span><a href="https://github.com/DiegoLibonati/mole-rush">Mole Rush</a></span>
-    <span>The classic Whac-A-Mole arcade game with 60 seconds timer.</span>
+    <span>⏰</span>
+    <span><a href="https://github.com/DiegoLibonati/zero-hour">Zero Hour</a></span>
+    <span>A countdown timer that tracks time until a specific date.</span>
   </div>
 </div>
 
