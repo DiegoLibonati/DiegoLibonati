@@ -419,7 +419,7 @@
   
   <div>
     <span>🛍️</span>
-    <span><a href="https://github.com/DiegoLibonati/DShop">DShop</a></span>
+    <span><a href="https://github.com/DiegoLibonati/dshop">DShop</a></span>
     <span>An e-commerce application with React, Flask, MongoDB and Docker.</span>
   </div>
   
