@@ -71,6 +71,12 @@
 
   <div>
     <span>🛠️</span>
+    <span><a href="https://github.com/DiegoLibonati/node-ts-mcp-server-boilerplate">Node Ts MCP Server Boilerplate</a></span>
+    <span>Starter template for Model Context Protocol servers with Node.js, TypeScript and the official MCP SDK.</span>
+  </div>
+
+  <div>
+    <span>🛠️</span>
     <span><a href="https://github.com/DiegoLibonati/python-flask-api-boilerplate">Python Flask Api Boilerplate</a></span>
     <span>Starter template for building REST APIs with Flask.</span>
   </div>
@@ -449,6 +455,12 @@
     <span>🍳</span>
     <span><a href="https://github.com/DiegoLibonati/recipic">Recipic</a></span>
     <span>A recipe app with Instagram-style stories powered by TheMealDB API.</span>
+  </div>
+
+  <div>
+    <span>⚽</span>
+    <span><a href="https://github.com/DiegoLibonati/results">Results</a></span>
+    <span>A full-stack app with live football scoreboards, standings and fixtures.</span>
   </div>
 
   <div>
