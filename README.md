@@ -59,7 +59,7 @@
 
   <div>
     <span>🛠️</span>
-    <span><a href="https://github.com/DiegoLibonati/node-ts-express-socket-boilerplate">Node Ts Express Socket Boilerplate</a></span>
+    <span><a href="https://github.com/DiegoLibonati/node-express-ts-socketio-boilerplate">Node Express Ts SocketIO Boilerplate</a></span>
     <span>Starter template for real-time Socket.io servers with Express and TypeScript.</span>
   </div>
 
