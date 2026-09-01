@@ -71,7 +71,7 @@
 
   <div>
     <span>🛠️</span>
-    <span><a href="https://github.com/DiegoLibonati/node-ts-mcp-server-boilerplate">Node Ts MCP Server Boilerplate</a></span>
+    <span><a href="https://github.com/DiegoLibonati/node-mcp-server-boilerplate">Node MCP Server Boilerplate</a></span>
     <span>Starter template for Model Context Protocol servers with Node.js, TypeScript and the official MCP SDK.</span>
   </div>
 
