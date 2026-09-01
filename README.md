@@ -41,7 +41,7 @@
 
   <div>
     <span>🛠️</span>
-    <span><a href="https://github.com/DiegoLibonati/next-16-ts-mongo-boilerplate">NextJS 16 Ts Mongo Boilerplate</a></span>
+    <span><a href="https://github.com/DiegoLibonati/nextjs-16-mongodb-boilerplate">NextJS 16 MongoDB Boilerplate</a></span>
     <span>Starter template for full-stack apps with Next.js 16, TypeScript and MongoDB.</span>
   </div>
 
