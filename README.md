@@ -53,19 +53,19 @@
 
   <div>
     <span>🛠️</span>
-    <span><a href="https://github.com/DiegoLibonati/node-express-ts-graphql-boilerplate">Node Express Ts GraphQL Boilerplate</a></span>
+    <span><a href="https://github.com/DiegoLibonati/node-express-graphql-boilerplate">Node Express GraphQL Boilerplate</a></span>
     <span>Starter template for GraphQL servers with Express and TypeScript.</span>
   </div>
 
   <div>
     <span>🛠️</span>
-    <span><a href="https://github.com/DiegoLibonati/node-express-ts-socketio-boilerplate">Node Express Ts SocketIO Boilerplate</a></span>
+    <span><a href="https://github.com/DiegoLibonati/node-express-socketio-boilerplate">Node Express SocketIO Boilerplate</a></span>
     <span>Starter template for real-time Socket.io servers with Express and TypeScript.</span>
   </div>
 
   <div>
     <span>🛠️</span>
-    <span><a href="https://github.com/DiegoLibonati/node-express-ts-sql-boilerplate">Node Express Ts SQL Boilerplate</a></span>
+    <span><a href="https://github.com/DiegoLibonati/node-express-sql-boilerplate">Node Express SQL Boilerplate</a></span>
     <span>Starter template for REST APIs with Express, TypeScript and SQL.</span>
   </div>
 
