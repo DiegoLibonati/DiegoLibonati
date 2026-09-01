@@ -47,7 +47,7 @@
 
   <div>
     <span>🛠️</span>
-    <span><a href="https://github.com/DiegoLibonati/node-express-ts-boilerplate">Node Express Ts Boilerplate</a></span>
+    <span><a href="https://github.com/DiegoLibonati/node-express-boilerplate">Node Express Boilerplate</a></span>
     <span>Starter template for REST APIs with Express and TypeScript.</span>
   </div>
 
