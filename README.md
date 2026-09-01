@@ -53,7 +53,7 @@
 
   <div>
     <span>🛠️</span>
-    <span><a href="https://github.com/DiegoLibonati/node-ts-express-graphql-boilerplate">Node Ts Express GraphQL Boilerplate</a></span>
+    <span><a href="https://github.com/DiegoLibonati/node-express-ts-graphql-boilerplate">Node Express Ts GraphQL Boilerplate</a></span>
     <span>Starter template for GraphQL servers with Express and TypeScript.</span>
   </div>
 
