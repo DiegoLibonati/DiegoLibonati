@@ -77,6 +77,12 @@
 
   <div>
     <span>🛠️</span>
+    <span><a href="https://github.com/DiegoLibonati/node-vscode-extension-boilerplate">Node VSCode Extension Boilerplate</a></span>
+    <span>Starter template for building VSCode extensions with TypeScript.</span>
+  </div>
+
+  <div>
+    <span>🛠️</span>
     <span><a href="https://github.com/DiegoLibonati/python-flask-boilerplate">Python Flask Boilerplate</a></span>
     <span>Starter template for building REST APIs with Flask.</span>
   </div>
@@ -133,12 +139,6 @@
     <span>🛠️</span>
     <span><a href="https://github.com/DiegoLibonati/typescript-vite-boilerplate">Typescript Vite Boilerplate</a></span>
     <span>Starter template for vanilla TypeScript projects with Vite.</span>
-  </div>
-
-  <div>
-    <span>🛠️</span>
-    <span><a href="https://github.com/DiegoLibonati/vscode-extension-ts-boilerplate">VSCode Extension Ts Boilerplate</a></span>
-    <span>Starter template for building VSCode extensions with TypeScript.</span>
   </div>
 
   <div>
