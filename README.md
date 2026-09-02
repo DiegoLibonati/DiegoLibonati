@@ -143,7 +143,7 @@
 
   <div>
     <span>🛠️</span>
-    <span><a href="https://github.com/DiegoLibonati/vue-3-ts-vite-boilerplate">Vue 3 TS Vite Boilerplate</a></span>
+    <span><a href="https://github.com/DiegoLibonati/vue-3-vite-boilerplate">Vue 3 Vite Boilerplate</a></span>
     <span>Starter template for Vue 3 apps with Vite and TypeScript.</span>
   </div>
 </div>
