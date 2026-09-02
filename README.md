@@ -119,7 +119,7 @@
 
   <div>
     <span>🛠️</span>
-    <span><a href="https://github.com/DiegoLibonati/react-ts-library-vite-boilerplate">React Ts Library Vite Boilerplate</a></span>
+    <span><a href="https://github.com/DiegoLibonati/react-vite-library-boilerplate">React Vite Library Boilerplate</a></span>
     <span>Starter template for building React component libraries with Vite and TypeScript.</span>
   </div>
 
