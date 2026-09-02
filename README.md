@@ -77,7 +77,7 @@
 
   <div>
     <span>🛠️</span>
-    <span><a href="https://github.com/DiegoLibonati/python-flask-api-boilerplate">Python Flask Api Boilerplate</a></span>
+    <span><a href="https://github.com/DiegoLibonati/python-flask-boilerplate">Python Flask Boilerplate</a></span>
     <span>Starter template for building REST APIs with Flask.</span>
   </div>
 
