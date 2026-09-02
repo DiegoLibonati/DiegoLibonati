@@ -113,7 +113,7 @@
 
   <div>
     <span>🛠️</span>
-    <span><a href="https://github.com/DiegoLibonati/react-native-ts-expo-boilerplate">React Native Ts Expo Boilerplate</a></span>
+    <span><a href="https://github.com/DiegoLibonati/react-native-expo-boilerplate">React Native Expo Boilerplate</a></span>
     <span>Starter template for cross-platform mobile apps with Expo, React Native and TypeScript.</span>
   </div>
 
