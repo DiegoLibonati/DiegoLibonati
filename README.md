@@ -83,7 +83,7 @@
 
   <div>
     <span>🛠️</span>
-    <span><a href="https://github.com/DiegoLibonati/python-flask-mongo-api-boilerplate">Python Flask Mongo Api Boilerplate</a></span>
+    <span><a href="https://github.com/DiegoLibonati/python-flask-mongodb-boilerplate">Python Flask MongoDB Boilerplate</a></span>
     <span>Starter template for REST APIs with Flask and MongoDB.</span>
   </div>
 
