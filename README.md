@@ -89,7 +89,7 @@
 
   <div>
     <span>🛠️</span>
-    <span><a href="https://github.com/DiegoLibonati/python-flask-ts-sql-web-boilerplate">Python Flask Ts Sql Web Boilerplate</a></span>
+    <span><a href="https://github.com/DiegoLibonati/python-flask-sql-mvc-boilerplate">Python Flask SQL MVC Boilerplate</a></span>
     <span>Starter template for Flask MVC web apps with SQL and a TypeScript front-end.</span>
   </div>
 
